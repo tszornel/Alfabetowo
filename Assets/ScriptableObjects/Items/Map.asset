@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f703b9f75e84d4fa28bc8f26e6519b, type: 3}
+  m_Name: Map
+  m_EditorClassIdentifier: 
+  ID: 5
+  type: 9
+  displayName: Mapa
+  objectName: Map
+  itemSprite: {fileID: 21300000, guid: 420a01415d0b7834f8e135d5efd19dea, type: 3}
+  itemIcon: {fileID: 8803504581945029383, guid: 37eae46967bf7624683d8809b2ed539d, type: 3}
+  itemSpriteDamaged: {fileID: 21300000, guid: eb9681b4e8b428b4499c493dc0394106, type: 3}
+  amount: 1
+  description: MAPA
+  price: 1
+  itemPrefab: {fileID: 0}
+  buffs: []
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 0}
+  mapUsed: 0

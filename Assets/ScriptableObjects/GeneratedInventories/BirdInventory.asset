@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 995aa16220e65d444b0690773c4c46b1, type: 3}
+  m_Name: BirdInventory
+  m_EditorClassIdentifier: 
+  savePath: 
+  database: {fileID: 11400000, guid: 338493a3afab89b4597e60fbcef2142d, type: 2}
+  inventory:
+    slots:
+    - ID: 29
+      item:
+        Id: 29
+        Name: BlueKey
+        DisplayedName: Niebieski klucz
+        stackable: 0
+        Type: 2
+        buffs:
+        - attribute: 0
+          value: 3
+          min: 1
+          max: 5
+        Location: 0
+        damaged: 0
+      amount: 1

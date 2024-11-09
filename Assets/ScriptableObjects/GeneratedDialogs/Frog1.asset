@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Frog1
+  m_EditorClassIdentifier: 
+  Id: 63
+  dialogName: Frog1
+  dialogSegments:
+  - lineOfText: "Nicponiu! Reh, reh. Dobrze \u017Ce Ci\u0119 widz\u0119! Reh, reh"
+    dialogLineDisplayTime: 0.07512
+    characterName: Rechotka
+    characterImage: {fileID: 11400000, guid: 9c0171ea462b2dc4c8f77b792636ea96, type: 2}
+    audio: {fileID: 8300000, guid: a90ff27dc779dad4c9c4ad338cfcafd8, type: 3}
+  - lineOfText: Witaj Rechotko!
+    dialogLineDisplayTime: 0.021879999
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: c61e382686aa6084aa8c53b6599639d2, type: 3}
+  - lineOfText: "Mo\u017Cesz mi pom\xF3c? Reh,reh..."
+    dialogLineDisplayTime: 0.03899
+    characterName: Rechotka
+    characterImage: {fileID: 11400000, guid: 9c0171ea462b2dc4c8f77b792636ea96, type: 2}
+    audio: {fileID: 8300000, guid: 8cd3c888a3980eb4e858e4c181fdec0e, type: 3}
+  - lineOfText: "Znikn\u0119\u0142o cz\u0119\u015B\u0107 literek z mego imienia."
+    dialogLineDisplayTime: 0.04394
+    characterName: Rechotka
+    characterImage: {fileID: 11400000, guid: 9c0171ea462b2dc4c8f77b792636ea96, type: 2}
+    audio: {fileID: 8300000, guid: aa93eed1afa7d914cb69847f61188b49, type: 3}
+  - lineOfText: "Je\u015Bli znikn\u0105 kolejne, przestan\u0119 istnie\u0107."
+    dialogLineDisplayTime: 0.06404
+    characterName: Rechotka
+    characterImage: {fileID: 11400000, guid: 9c0171ea462b2dc4c8f77b792636ea96, type: 2}
+    audio: {fileID: 8300000, guid: a0caf55cf6130ae4d848f574b7aa31d7, type: 3}
+  - lineOfText: "Poczekaj, id\u0119 na poszukiwania."
+    dialogLineDisplayTime: 0.03397
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 60661e4e7abd83948bfd7a7e78781829, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

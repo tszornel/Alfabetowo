@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  Id: 83
+  dialogName: Intro
+  dialogSegments:
+  - lineOfText: "Dzia\u0142o si\u0119 to dawno temu w krainie Abecad\u0142owa, gdzie
+      \u017Cy\u0142y dzieci razem ze swoimi literkami, kt\xF3re by\u0142y dla nich
+      dobrymi duszkami. Litery wype\u0142nia\u0142y ich ksi\u0105\u017Cki i uczy\u0142y
+      ich wszystkiego co potrzebne."
+    dialogLineDisplayTime: 0.18106
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 0905d8803893e1c4eb1ff127cd1cef8e, type: 3}
+  - lineOfText: "Dzieci sp\u0119dza\u0142y tak beztrosko ca\u0142e dnie na pracy,
+      nauce i zabawie. By\u0142o tak do czasu gdy z\u0142y w\u0142adca Sersenbaj
+      - pan wszystkich wiatr\xF3w, zapragn\u0105\u0142 w\u0142adzy nad ca\u0142ym
+      \u015Bwiatem. "
+    dialogLineDisplayTime: 0.17937
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: c6afd19b498abef4699d8ad1c60cf6c5, type: 3}
+  - lineOfText: "Postanowi\u0142 przej\u0105\u0107 na wy\u0142\u0105czno\u015B\u0107
+      wiedz\u0119 ca\u0142ego \u015Bwiata i zapanowa\u0107 nad nim. Jego z\u0142e
+      wichry wywiady z ksi\u0105\u017Cek, nazw i imion w Abecad\u0142owie niemal
+      wszystkie literki."
+    dialogLineDisplayTime: 0.13331
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 8772f6c2ef630fd4ab8e3ef5bc24d863, type: 3}
+  - lineOfText: "Bez swoich nazw osoby i przedmioty przestawa\u0142y istnie\u0107.
+      Wkr\xF3tce ca\u0142ej krainie grozi zag\u0142ada. Du\u017Co ludzik\xF3w i rzeczy
+      znikn\u0119\u0142o ju\u017C raz na zawsze."
+    dialogLineDisplayTime: 0.15288
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 69b45071ced6ce54cb844924fbd4ee08, type: 3}
+  - lineOfText: "Teraz krain\u0119 Abecad\u0142owa mo\u017Ce uratowa\u0107 tylko
+      pewien urwis, kt\xF3ry nie boi si\u0119 z\u0142ego w\u0142adcy wiatr\xF3w.Przezwano
+      go Nicponiem, bo dot\u0105d nad nauk\u0119 przedk\u0142ada\u0142 psoty i zabaw\u0119.\n"
+    dialogLineDisplayTime: 0.14253
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: c24e3cb39514af7489ec4f14b506ed49, type: 3}
+  - lineOfText: "Je\u015Bli Nicpo\u0144 zwyci\u0119\u017Cy, to nie tylko uratuje
+      Abecad\u0142owo ale sam r\xF3wnie\u017C odzyska swoje prawdziwe imi\u0119,
+      pozna litery i nauczy si\u0119 czyta\u0107 i pisa\u0107."
+    dialogLineDisplayTime: 0.16166
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 5080db91468565049af8a46c05c53429, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

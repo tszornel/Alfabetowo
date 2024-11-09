@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Lighter2
+  m_EditorClassIdentifier: 
+  Id: 58
+  dialogName: Lighter2
+  dialogSegments:
+  - lineOfText: "O, teraz mog\u0119 m\xF3wi\u0107, bez zaj\u0105kni\u0119\u0107!
+      Nareszcie!"
+    dialogLineDisplayTime: 0.07424
+    characterName: "\u015Awietlik"
+    characterImage: {fileID: 11400000, guid: fbb558cc8a49a2d4799079ea767ddcea, type: 2}
+    audio: {fileID: 8300000, guid: 6a96bca66e5c36b498e75e4946432d57, type: 3}
+  - lineOfText: "S\u0142uchaj Nicponiu, musisz przynie\u015B\u0107 klucz, kt\xF3ry
+      schowa\u0142em w stoliku Twego domku..."
+    dialogLineDisplayTime: 0.06427
+    characterName: "\u015Awietlik"
+    characterImage: {fileID: 11400000, guid: fbb558cc8a49a2d4799079ea767ddcea, type: 2}
+    audio: {fileID: 8300000, guid: 77ca99c8236c9674fa9663a1da95077f, type: 3}
+  - lineOfText: "...gdy wichry Sarsenbaja zacz\u0119\u0142y wywiewa\u0107 literki."
+    dialogLineDisplayTime: 0.03999
+    characterName: "\u015Awietlik"
+    characterImage: {fileID: 11400000, guid: fbb558cc8a49a2d4799079ea767ddcea, type: 2}
+    audio: {fileID: 8300000, guid: 0b1dcc77f0d2f6945836ef193656bc7f, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 1
+  shortDialogName: Lighter2Short
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

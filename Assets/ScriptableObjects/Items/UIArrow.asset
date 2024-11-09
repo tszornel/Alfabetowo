@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1b17aafedae60459ea731612115bb1, type: 3}
+  m_Name: UIArrow
+  m_EditorClassIdentifier: 
+  ID: 28
+  type: 4
+  displayName: UIArrow
+  objectName: UIArrow
+  itemSprite: {fileID: 21300000, guid: 7917d3c43ecfa4d4dbca265556ed4302, type: 3}
+  itemIcon: {fileID: 0}
+  itemSpriteDamaged: {fileID: 0}
+  amount: 1
+  description: UIarrow
+  price: 0
+  itemPrefab: {fileID: 0}
+  buffs: []
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 0}

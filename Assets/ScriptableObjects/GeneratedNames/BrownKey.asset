@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca906a3efff8b084481690acd0a174f3, type: 3}
+  m_Name: BrownKey
+  m_EditorClassIdentifier: 
+  nameLetters:
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 2
+      Name: B
+      DisplayedName: Litera B
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 19
+      Name: R
+      DisplayedName: Litera R
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 1
+      Name: "\u0104"
+      DisplayedName: "Litera \u0104"
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 28
+      Name: Z
+      DisplayedName: Litera Z
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 17
+      Name: O
+      DisplayedName: Litera O
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 8300000, guid: 3cacdb77d7683544bad0819fb77ab182, type: 3}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 24
+      Name: W
+      DisplayedName: Litera W
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 27
+      Name: Y
+      DisplayedName: Litera Y
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 8300000, guid: 464606354ad327647bc3c02aa6aee366, type: 3}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 39
+      Name: Dash
+      DisplayedName: '-'
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 12
+      Name: K
+      DisplayedName: Litera K
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 13
+      Name: L
+      DisplayedName: Litera L
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 22
+      Name: U
+      DisplayedName: Litera U
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 8300000, guid: 3980ce7ad706a96438f5ad38d0d79542, type: 3}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 3
+      Name: C
+      DisplayedName: Litera C
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 28
+      Name: Z
+      DisplayedName: Litera Z
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  Id: 0
+  displayedName: "BR\u0104ZOWY-KLUCZ"
+  characterImage: {fileID: 21300000, guid: 625209b626e77694bb8dca748067087c, type: 3}
+  done: 0
+  language: 0
+  savePath: Assets/ScriptableObjects/GeneratedNames/

@@ -1,0 +1,31 @@
+{
+    "name": "EditModeTests",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "UnityEngine.UI",
+        "WebabyAssembly",
+        "Unity.2D.Animation.Editor",
+        "Unity.2D.Animation.EditorTests",
+        "Unity.2D.Animation.Runtime",
+        "Unity.2D.Animation.Triangle.Runtime",
+        "Unity.Animation.Rigging",
+        "Unity.Animation.Rigging.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

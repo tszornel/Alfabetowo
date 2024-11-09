@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca906a3efff8b084481690acd0a174f3, type: 3}
+  m_Name: Squirrel
+  m_EditorClassIdentifier: 
+  nameLetters:
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 19
+      Name: R
+      DisplayedName: Litera R
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 22
+      Name: U
+      DisplayedName: Litera U
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 8300000, guid: 3980ce7ad706a96438f5ad38d0d79542, type: 3}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 4
+      Name: D
+      DisplayedName: Litera D
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 17
+      Name: O
+      DisplayedName: Litera O
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 8300000, guid: 3cacdb77d7683544bad0819fb77ab182, type: 3}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 20
+      Name: S
+      DisplayedName: Litera S
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 12
+      Name: K
+      DisplayedName: Litera K
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 23
+      Name: "\xD3"
+      DisplayedName: "Litera \xD3"
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 19
+      Name: R
+      DisplayedName: Litera R
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 12
+      Name: K
+      DisplayedName: Litera K
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 0
+      Name: A
+      DisplayedName: Litera A
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 8300000, guid: 611f62796be1f6b4da2a6da2080c657d, type: 3}
+  Id: 0
+  displayedName: "RUDOSK\xD3RKA"
+  characterImage: {fileID: 8237034195658395254, guid: cd9c40c6a9f2c6541b056e686904bd26, type: 3}
+  done: 0
+  language: 0
+  savePath: Assets/ScriptableObjects/GeneratedNames/

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1b17aafedae60459ea731612115bb1, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  ID: 14
+  type: 4
+  displayName: Klucz
+  objectName: Key
+  itemSprite: {fileID: 21300000, guid: a002b56275e59d14cb461a7059741224, type: 3}
+  itemIcon: {fileID: -5000429315086920944, guid: 37eae46967bf7624683d8809b2ed539d, type: 3}
+  itemSpriteDamaged: {fileID: 21300000, guid: 7dc408a730ca1244991758394b742500, type: 3}
+  amount: 1
+  description: KLUCZ
+  price: 1
+  itemPrefab: {fileID: 0}
+  buffs:
+  - attribute: 0
+    value: 2
+    min: 1
+    max: 5
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 11400000, guid: 22cff39d26d311b4ca8ca0df1648d203, type: 2}

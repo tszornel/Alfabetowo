@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca906a3efff8b084481690acd0a174f3, type: 3}
+  m_Name: Saber
+  m_EditorClassIdentifier: 
+  nameLetters:
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 20
+      Name: S
+      DisplayedName: Litera S
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 28
+      Name: Z
+      DisplayedName: Litera Z
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 0
+      Name: A
+      DisplayedName: Litera A
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 8300000, guid: 611f62796be1f6b4da2a6da2080c657d, type: 3}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 2
+      Name: B
+      DisplayedName: Litera B
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 1
+    active: 1
+    nameLetter:
+      Id: 13
+      Name: L
+      DisplayedName: Litera L
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 0}
+  - initialActive: 0
+    active: 0
+    nameLetter:
+      Id: 0
+      Name: A
+      DisplayedName: Litera A
+      stackable: 1
+      Type: 1
+      buffs:
+      - attribute: 2
+        value: 1
+        min: 1
+        max: 1
+      Location: 3
+      damaged: 0
+    letterSound: {fileID: 8300000, guid: 611f62796be1f6b4da2a6da2080c657d, type: 3}
+  Id: 0
+  displayedName: SZABLA
+  characterImage: {fileID: 21300000, guid: 6c68d335076bb5e419112c30dfe795a2, type: 3}
+  done: 0
+  language: 0
+  savePath: Assets/ScriptableObjects/GeneratedNames/

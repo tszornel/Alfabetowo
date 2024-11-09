@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 43401d7add3324d408376a57a04ea3b6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: gory sarsenbaja pl
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 817
+      y: 701
+      width: 164
+      height: 61
+    spriteID: 9993f7cf733448b4a9b2f6c2d0c48763
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 679, y: 314}
+  - name: gory sarsenbaja de
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 94
+      width: 164
+      height: 61
+    spriteID: 983d8918972e1db44a5f52c8676d048d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 661, y: -293}
+  - name: gory sarsenbaja en
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 163
+      width: 164
+      height: 61
+    spriteID: d938f5a48080c7e4999137e68ee36e75
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 661, y: -224}
+  - name: orla puszcza pl
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 232
+      width: 160
+      height: 59
+    spriteID: 2ab51ab5c2c93d14c8dd5d8c94d9dba3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 400, y: 140}
+  - name: orla puszcza de
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 299
+      width: 160
+      height: 59
+    spriteID: 4e36dee05ecb0ff44810bb5f9b358e29
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 400, y: 207}
+  - name: orla puszcza en
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 366
+      width: 160
+      height: 59
+    spriteID: 05020c14d35a5a54f8b3291804d801b7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 400, y: 274}
+  - name: pustynia ognia pl
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 433
+      width: 156
+      height: 58
+    spriteID: 5e6148a640722dc42829de02dfeac727
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 302, y: 58}
+  - name: pustynia ognia de
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 821
+      width: 156
+      height: 58
+    spriteID: 97a40959e2bf19d4087212080b3e2f55
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -251, y: 446}
+  - name: pustynia ognia  en
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 410
+      y: 821
+      width: 156
+      height: 58
+    spriteID: fd30701050dc2e54fbe81ff2c513d28c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -87, y: 446}
+  - name: abecadlowo pl
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 731
+      width: 221
+      height: 82
+    spriteID: 6672d6d59d2b49941969d1cad8780ec8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 185, y: 678}
+  - name: abecadlowo de
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 555
+      y: 724
+      width: 221
+      height: 82
+    spriteID: 755a317953fca6d44a0751dd8fe97e9d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 441, y: 671}
+  - name: abecadlowo en
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 799
+      y: 4
+      width: 221
+      height: 82
+    spriteID: 14b635a65fafbfa46b5c4fa50efa3b0c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 685, y: -49}
+  - name: Sarsenbais Mountains
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 821
+      width: 234
+      height: 179
+    spriteID: 5a9f1769d4a1bf747a8a6f4e16630c0d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -135, y: 607}
+  - name: abcLand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 555
+      y: 536
+      width: 254
+      height: 180
+    spriteID: 5d261f060a2b8cc43883ce6650a1688e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 419, y: 446}
+  - name: FireDesert
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 299
+      y: 536
+      width: 248
+      height: 187
+    spriteID: acf1a3a765d07874686d90d3e23d6d5a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -12, y: 285}
+  - name: Eagles Forest
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 536
+      width: 287
+      height: 277
+    spriteID: 7a4182515566ffc43a44a87f21e793b9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -354, y: 447}
+  - name: WindRose
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 817
+      y: 536
+      width: 147
+      height: 157
+    spriteID: 997afbdedf0cf8444b89c6e7e06011b6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 265, y: 452}
+  - name: Warstwa 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 787
+      height: 524
+    spriteID: 8e967aa1804823545af2f06afc5fdae1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 787, y: 524}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: gory sarsenbaja pl
+    spriteName: gory sarsenbaja pl
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9993f7cf733448b4a9b2f6c2d0c48763
+    layerID: 401
+    mosaicPosition: {x: 817, y: 701}
+  - name: gory sarsenbaja de
+    spriteName: gory sarsenbaja de
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 983d8918972e1db44a5f52c8676d048d
+    layerID: 400
+    mosaicPosition: {x: 799, y: 94}
+  - name: gory sarsenbaja en
+    spriteName: gory sarsenbaja en
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d938f5a48080c7e4999137e68ee36e75
+    layerID: 399
+    mosaicPosition: {x: 799, y: 163}
+  - name: orla puszcza pl
+    spriteName: orla puszcza pl
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2ab51ab5c2c93d14c8dd5d8c94d9dba3
+    layerID: 222
+    mosaicPosition: {x: 799, y: 232}
+  - name: orla puszcza de
+    spriteName: orla puszcza de
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4e36dee05ecb0ff44810bb5f9b358e29
+    layerID: 397
+    mosaicPosition: {x: 799, y: 299}
+  - name: orla puszcza en
+    spriteName: orla puszcza en
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 05020c14d35a5a54f8b3291804d801b7
+    layerID: 396
+    mosaicPosition: {x: 799, y: 366}
+  - name: pustynia ognia pl
+    spriteName: pustynia ognia pl
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5e6148a640722dc42829de02dfeac727
+    layerID: 390
+    mosaicPosition: {x: 799, y: 433}
+  - name: pustynia ognia de
+    spriteName: pustynia ognia de
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 97a40959e2bf19d4087212080b3e2f55
+    layerID: 402
+    mosaicPosition: {x: 246, y: 821}
+  - name: pustynia ognia  en
+    spriteName: pustynia ognia  en
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fd30701050dc2e54fbe81ff2c513d28c
+    layerID: 393
+    mosaicPosition: {x: 410, y: 821}
+  - name: abecadlowo pl
+    spriteName: abecadlowo pl
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6672d6d59d2b49941969d1cad8780ec8
+    layerID: 206
+    mosaicPosition: {x: 299, y: 731}
+  - name: abecadlowo de
+    spriteName: abecadlowo de
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 755a317953fca6d44a0751dd8fe97e9d
+    layerID: 392
+    mosaicPosition: {x: 555, y: 724}
+  - name: abecadlowo en
+    spriteName: abecadlowo en
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 14b635a65fafbfa46b5c4fa50efa3b0c
+    layerID: 391
+    mosaicPosition: {x: 799, y: 4}
+  - name: WindRose
+    spriteName: WindRose
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 997afbdedf0cf8444b89c6e7e06011b6
+    layerID: 404
+    mosaicPosition: {x: 817, y: 536}
+  - name: CoverOfMapTiles
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 286
+    mosaicPosition: {x: 0, y: 0}
+  - name: Sarsenbais Mountains
+    spriteName: Sarsenbais Mountains
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 5a9f1769d4a1bf747a8a6f4e16630c0d
+    layerID: 242
+    mosaicPosition: {x: 4, y: 821}
+  - name: abcLand
+    spriteName: abcLand
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 5d261f060a2b8cc43883ce6650a1688e
+    layerID: 245
+    mosaicPosition: {x: 555, y: 536}
+  - name: FireDesert
+    spriteName: FireDesert
+    isGroup: 0
+    parentIndex: 13
+    spriteID: acf1a3a765d07874686d90d3e23d6d5a
+    layerID: 241
+    mosaicPosition: {x: 299, y: 536}
+  - name: Eagles Forest
+    spriteName: Eagles Forest
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 7a4182515566ffc43a44a87f21e793b9
+    layerID: 240
+    mosaicPosition: {x: 4, y: 536}
+  - name: Warstwa 1
+    spriteName: Warstwa 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8e967aa1804823545af2f06afc5fdae1
+    layerID: 403
+    mosaicPosition: {x: 4, y: 4}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: mapa-9.7.4 Texture
+  prefabAssetName: mapa-9.7.4 Prefab
+  spriteLibAssetName: mapa-9.7.4 Sprite Lib
+  skeletonAssetName: mapa-9.7.4 Skeleton
+  secondarySpriteTextures: []

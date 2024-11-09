@@ -1,0 +1,1815 @@
+{
+  "data": [
+    {
+      "_id": "625c699bffbb7eb9079e9edc",
+      "dialogName": "IntroScamp",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-1", "nicpon-1-en", "nicpon-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Co się stało?",
+          "en": "What’s wrong?",
+          "de": "Was ist los?"
+        },
+        {
+          "fileName": [ "nicpon-2", "nicpon-2-en", "nicpon-2-de" ],
+          "textDuration": [ 0.09, 0.09, 0.09 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Tyle literek zniknęło?",
+          "en": "So many letters are gone!",
+          "de": "So viele Buchstaben sind verschwunden!"
+        },
+        {
+          "fileName": [ "nicpon-3", "nicpon-3-en", "nicpon-3-de" ],
+          "textDuration": [ 0.08, 0.08, 0.08 ],
+          "characterName": [ "Nicpoń", "Scamp", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Muszę się rozejrzeć wokół domu, inaczej część mojej krainy zniknie.",
+          "en": "I have to look around the house or my land will disappear. ",
+          "de": "Ich muss mich herumsehen, sonst mein Land wird Stück für Stück verschwinden."
+        },
+        {
+          "fileName": [ "nicpon-4", "nicpon-4-en", "nicpon-4-de" ],
+          "textDuration": [ 0.09, 0.09, 0.09 ],
+          "characterName": [ "Nicpoń", "Scamp", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Może coś odkryję ?",
+          "en": "Maybe I'll discover something. ",
+          "de": "Vielleicht entdecke ich ‘was."
+        },
+        {
+          "fileName": [ "nicpon-5", "nicpon-5-en", "nicpon-5-de" ],
+          "textDuration": [ 0.1, 0.1, 0.1 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Muszę się dowiedzieć czy można odzyskać te literki.",
+          "en": "I need to find out, if the letters can be recovered.",
+          "de": "Ich muss unedingt herausfinden, ob die Buchstaben zurückgeholt werden können."
+        }
+      ]
+    },
+    {
+      "_id": "62c67e8055de02b7ddda6992",
+      "dialogName": "GrutekFirstMeeting",
+      "hasShort": "true",
+      "shortDialogName": "Grutek-short-1",
+      "segments": [
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-1", "nicpon-grutek-first-meeting-1-en", "nicpon-grutek-first-meeting-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Witaj!",
+          "en": "Hello!",
+          "de": "Hallo!"
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-2", "nicpon-grutek-first-meeting-2-en", "nicpon-grutek-first-meeting-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Argh...Witaj!",
+          "en": "Aggh...Hello Blighter!",
+          "de": "Aggh....Hallo Schlingel!"
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-3", "nicpon-grutek-first-meeting-3-en", "nicpon-grutek-first-meeting-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Kim jesteś?",
+          "en": "Who are you?",
+          "de": "Wer bist du?"
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-4", "nicpon-grutek-first-meeting-4-en", "nicpon-grutek-first-meeting-4-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Nazywam się Grutek.",
+          "en": "I'am Arbor.",
+          "de": "Ich heisse Grutek."
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-5", "nicpon-grutek-first-meeting-5-en", "nicpon-grutek-first-meeting-5-de" ],
+          "textDuration": [ 0.07, 0.07, 0.07 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Zaatakowały mnie wrogie stwory, wysłannicy Sarsenbaja, króla wichrów. ",
+          "en": "Hostile creatures attacked me, they were emissaries of Sarsenbai, the king of the winds.",
+          "de": "Feindliche Kreaturen haben mich angegriefen. Das waren die Abgesandte von Sarsenbai, dem König der Winde. "
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-6", "nicpon-grutek-first-meeting-6-en", "nicpon-grutek-first-meeting-6-de" ],
+          "textDuration": [ 0.04, 0.04, 0.04 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Ukradli mi moje literki.",
+          "en": "They stole my letters.",
+          "de": "Sie haben meine Briefe gestohlen. "
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-7", "nicpon-grutek-first-meeting-7-en", "nicpon-grutek-first-meeting-7-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Część zachowałem ale …kilku potrzebuję żebym mógł istnieć. Już przestaję mówić.",
+          "en": "I kept some but… I need a few more in order to exist. If not I will stop speaking.",
+          "de": "Ich habe einige behalten, aber ... ich brauche ein paar, damit ich existieren kann."
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-8", "nicpon-grutek-first-meeting-8-en", "nicpon-grutek-first-meeting-8-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Poratuj mnie proszę choć literką, bym mógł powiedzieć, to co chcę.",
+          "en": "Please help me to get some, so that I can say what I want.",
+          "de": "Rette mich mit einer Buchstabe. Mach es, ich wieder sprechen könne."
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-9", "nicpon-grutek-first-meeting-9-en", "nicpon-grutek-first-meeting-9-de" ],
+          "textDuration": [ 0, 0, 0 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Nie mam literki. Będę musiał ją znaleźć.",
+          "en": "I have no letter. I’ll have to find one!",
+          "de": " Ich habe nicht die Buchstabe, die du brauchst. Ich muss się finden."
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-10", "nicpon-grutek-first-meeting-10-en", "nicpon-grutek-first-meeting-10-de" ],
+          "textDuration": [ 0, 0, 0 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Dobrze, poczekam. Byleby ci się to udało, zanim ostatnie ziarnko piachu nie przesypie się w klepsydrze.",
+          "en": "Okay, I'll wait. If only you could do it before the last grain of sand falls in hourglass.",
+          "de": "Gut. Ich warte. Ich hoffe, du schaffst es, bevor das letzte Sandkorn in der Sanduhr fließt."
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-11", "nicpon-grutek-first-meeting-11-en", "nicpon-grutek-first-meeting-11-de" ],
+          "textDuration": [ 0, 0, 0 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Jakiej klepsydrze?",
+          "en": "What hourglass?",
+          "de": "Welcher Sanduhr? "
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-12", "nicpon-grutek-first-meeting-12-en", "nicpon-grutek-first-meeting-12-de" ],
+          "textDuration": [ 0, 0, 0 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Aaa! Chyba chodzi mu o uciekający czas...",
+          "en": "I think he means that the time is running out.",
+          "de": " Was wollte er eigentlich dadurch sagen? Wahrscheinlich, dass die Zeit läuft ab."
+        },
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-13", "nicpon-grutek-first-meeting-13-en", "nicpon-grutek-first-meeting-13-de" ],
+          "textDuration": [ 0, 0, 0 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Czyli do wieczora muszę mu znaleźć literkę.",
+          "en": "I really have to find a letter for him by the evening.",
+          "de": "Ich muss ihm bis zum Abend seine Buchstabe finden."
+        }
+      ]
+    },
+    {
+      "_id": "62d6ecebe58d235a2d84cb7d",
+      "dialogName": "Grutek-short-2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-grutek-first-meeting-2", "nicpon-grutek-first-meeting-2-en", "nicpon-grutek-first-meeting-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blghter", "Schlingel" ],
+          "characterSprite": "groot-talking",
+          "pl": "Jeśli chcesz zadania swojej wyprawy wypełnić, musisz baczyć na drzewa.",
+          "en": "If you want to complete all the tasks during your trip, you have to watch the trees.",
+          "de": "Wenn du die Augaben deiner Mission machen mochtest, musst du auf die Bäume achten."
+        }
+      ]
+    },
+    {
+      "_id": "62d6ecebe58d235a2d84cb7d",
+      "dialogName": "GrutekAfter",
+      "hasShort": "true",
+      "shortDialogName": "Grutek-short-2",
+      "segments": [
+        {
+          "fileName": [ "nicpon-grutek-after-1", "nicpon-grutek-after-1-en", "nicpon-grutek-after-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "O! dziękuję ci! Teraz mogę wreszcie się wysłowić.",
+          "en": "Oh! thank you! Now I can finally express myself.",
+          "de": "O! Danke! Jetzt kann ich endlich locker reden."
+        },
+        {
+          "fileName": [ "nicpon-grutek-after-2", "nicpon-grutek-after-2-en", "nicpon-grutek-after-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blghter", "Schlingel" ],
+          "characterSprite": "groot-talking",
+          "pl": "Jeśli chcesz zadania swojej wyprawy wypełnić, musisz baczyć na drzewa.",
+          "en": "If you want to complete all the tasks during your trip, you have to watch the trees.",
+          "de": "Wenn du die Augaben deiner Mission machen mochtest, musst du auf die Bäume achten."
+        },
+        {
+          "fileName": [ "nicpon-grutek-after-3", "nicpon-grutek-after-3-en", "nicpon-grutek-after-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Znajdziesz w środku jednego z nich mapę Twojej podróży.",
+          "en": "You will find a map of your journey inside one of them.",
+          "de": "In einem Baumstamm findest du die Karte deiner Reise."
+        },
+        {
+          "fileName": [ "nicpon-grutek-after-4", "nicpon-grutek-after-4-en", "nicpon-grutek-after-4-de" ],
+          "textDuration": [ 0.07, 0.07, 0.07 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Na pożegnanie chciałem przekazać Ci coś...",
+          "en": "As a farewell, I wanted to tell you something...",
+          "de": "  Zu Abschied gebe ich dir noch was..."
+        },
+        {
+          "fileName": [ "nicpon-grutek-after-5", "nicpon-grutek-after-5-en", "nicpon-grutek-after-5-de" ],
+          "textDuration": [ 0.04, 0.04, 0.04 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": " ...byś w Twojej wyprawie łatwiej radził sobie z wrogami.",
+          "en": "...to help you deal with your enemies more easily during your expedition.",
+          "de": " ...um du dich besser mit deinen Feinden umgehen könntest. "
+        },
+        {
+          "fileName": [ "nicpon-grutek-after-6", "nicpon-grutek-after-6-en", "nicpon-grutek-after-6-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Ukryłem przed nimi miecz, który teraz Ci chcę przekazać.",
+          "en": "I hid a sword that I want to give you now.",
+          "de": "Ich habe mein Schwert „Stachel” vor ihnen versteckt."
+        },
+        {
+          "fileName": [ "nicpon-grutek-after-7", "nicpon-grutek-after-7-en", "nicpon-grutek-after-7-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Ten miecz nazywa się „żądło” i słudzy Sarsenbaja...",
+          "en": "This sword is called \"the sting\" and Sarsenbai's servants...",
+          "de": " Nimm es."
+        },
+        {
+          "fileName": [ "nicpon-grutek-after-8", "nicpon-grutek-after-8-en", "nicpon-grutek-after-8-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": " ...truchleją przed nim z przerażenia.",
+          "en": "...are terrified when they see it.",
+          "de": "Die Diener von Sarsenbai sind vor ihm hart erschrocken."
+        }
+      ]
+    },
+    {
+      "_id": "62d81e6377f20fbb0ad18951",
+      "dialogName": "LighterFirstMeetingShort",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "swietlik-first-meeting-7", "swietlik-first-meeting-7-en", "swietlik-first-meeting-7-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffer", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": " Wichry Sarsenbaja zabrały mi literki z imienia. Jeśli nie wrócą do mnie...",
+          "en": "Sarsenbai's winds took the letters from my name.",
+          "de": "Sarsenbais Winde nahmen die Buchstaben von meinem Namen."
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-8", "swietlik-first-meeting-8-en", "swietlik-first-meeting-8-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffer", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "...wkrótce, wkrótce zginę!",
+          "en": "If they don't come back to me. I will die soon!",
+          "de": "Wenn sie nicht zu mir zurückkommen, werde ich bald sterben!"
+        }
+      ]
+    },
+    {
+      "_id": "62d81e6377f20fbb0ad18951",
+      "dialogName": "LighterFirstMeeting",
+      "hasShort": "true",
+      "shortDialogName": "LighterFirstMeetingShort",
+      "segments": [
+        {
+          "fileName": [ "swietlik-first-meeting-1", "swietlik-first-meeting-1-en", "swietlik-first-meeting-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffle", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "Ni..Nicponiu! Dobrze cię widzieć.Czekałem na Ciebie.",
+          "en": "Blighter! Good to see you! I've been waiting for you.",
+          "de": "Schlingel! Wie gut dich zu sehen! Ich wartete auf dich."
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-2", "swietlik-first-meeting-2-en", "swietlik-first-meeting-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffle", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "Wieść o tym, że chcesz uratować świat przed wszechwładzą złego Sarsenbaja...",
+          "en": "he news that you want to save the world from the omnipotence of the evil Sarsenbai...",
+          "de": "Die Botschaft, dass du die Welt vor der Sarsenbaimacht vertaidigen möchtest..."
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-3", "swietlik-first-meeting-3-en", "swietlik-first-meeting-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffer", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "...rozniosła się daleko.",
+          "en": " ...has spread far.",
+          "de": "...ist weit gegangen."
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-4", "swietlik-first-meeting-4-en", "swietlik-first-meeting-4-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Serio! Nikomu o tym nie mówiłem.",
+          "en": "Interesting! I haven't told anyone about this.",
+          "de": "Komisch! Ich habe doch niemandem es gesagt."
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-5", "swietlik-first-meeting-5-en", "swietlik-first-meeting-5-de" ],
+          "textDuration": [ 0.07, 0.07, 0.07 ],
+          "characterName": [ "Świetlik", "Biffer", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "Wszyscy mieszkańcy liczą teraz tylko na Ciebie.",
+          "en": "All inhabitants of our land are counting only on you now.",
+          "de": "Alle hier zu Lande zählen jetzt nur auf dich! "
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-6", "swietlik-first-meeting-6-en", "swietlik-first-meeting-6-de" ],
+          "textDuration": [ 0.04, 0.04, 0.04 ],
+          "characterName": [ "Świetlik", "Biffer", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "Chcę Ci pomóc! Ale proszę ty pomóż i mnie. ",
+          "en": "I want to help you! But please, help me too. ",
+          "de": "Ich  möchte dir helfen! Aber zuerst, du hilf mir, bitte! "
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-7", "swietlik-first-meeting-7-en", "swietlik-first-meeting-7-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffer", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": " Wichry Sarsenbaja zabrały mi literki z imienia. Jeśli nie wrócą do mnie...",
+          "en": "Sarsenbai's winds took the letters from my name.",
+          "de": "Sarsenbais Winde nahmen die Buchstaben von meinem Namen."
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-8", "swietlik-first-meeting-8-en", "swietlik-first-meeting-8-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffer", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "...wkrótce, wkrótce zginę!",
+          "en": "If they don't come back to me. I will die soon!",
+          "de": "Wenn sie nicht zu mir zurückkommen, werde ich bald sterben!"
+        },
+        {
+          "fileName": [ "swietlik-first-meeting-9", "swietlik-first-meeting-9-en", "swietlik-first-meeting-9-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Zaraz wrócę z twoimi literkami.",
+          "en": "I'll be back with your letters soon.",
+          "de": "Ich hole dich deine Buchstaben."
+        }
+      ]
+    },
+    {
+      "_id": "62d8c0226a316db56655754c",
+      "dialogName": "Lighter2Short",
+      "hasShort": "true",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "swietlik-2-2", "swietlik-2-2-en", "swietlik-2-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffle", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "Słuchaj Nicponiu, musisz przynieść klucz, który schowałem w stoliku Twego domku...",
+          "en": "Listen, Blighter, you must bring the key that I hid in the drawer of the little table in your cottage...",
+          "de": "Hör zu, Schlingel, du musst den Schlüssel mitbringen, den ich im Tisch deines Häuschens versteckt habe..."
+        }
+      ]
+    },
+    {
+      "_id": "62d8c0226a316db56655754c",
+      "dialogName": "Lighter2",
+      "hasShort": "true",
+      "shortDialogName": "Lighter2Short",
+      "segments": [
+        {
+          "fileName": [ "swietlik-2-1", "swietlik-2-1-en", "swietlik-2-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffle", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "O, teraz mogę mówić, bez zająknięć! Nareszcie!",
+          "en": "Oh, now I can speak without stuttering! Finally!",
+          "de": "Na endlich! Ich kann wieder sprechen, ohne zu stottern! "
+        },
+        {
+          "fileName": [ "swietlik-2-2", "swietlik-2-2-en", "swietlik-2-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffle", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "Słuchaj Nicponiu, musisz przynieść klucz, który schowałem w stoliku Twego domku...",
+          "en": "Listen, Blighter, you must bring the key that I hid in the drawer of the little table in your cottage...",
+          "de": "Hör zu, Schlingel, du musst den Schlüssel mitbringen, den ich im Tisch deines Häuschens versteckt habe..."
+        },
+        {
+          "fileName": [ "swietlik-2-3", "swietlik-2-3-en", "swietlik-2-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świetlik", "Biffer", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "...gdy wichry Sarsenbaja zaczęły wywiewać literki.",
+          "en": " ...when Sarsenbai's winds began blowing away the letters.",
+          "de": "...als die Winde von Sarsenbay begannen die Buchstaben wegzublasen."
+        }
+      ]
+    },
+    {
+      "_id": "62d8cb0.06a316db56655754d",
+      "dialogName": "Bird1",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "bird-1-1", "bird-1-1", "bird-1-1" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "Pri-triu-tiu-tu",
+          "en": "Pri-triu-tiu-tu",
+          "de": "Pri-triu-tiu-tu"
+        }
+      ]
+    },
+    {
+      "_id": "62d8cb0.06a316db56655755d",
+      "dialogName": "Bird2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "cwirek-2-1", "cwirek-2-1-en", "cwirek-2-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "Pomóż mi. Nie mogę latać.",
+          "en": "Blighter, Blighter, help me please!",
+          "de": "Schlingel,  bitte hilf mir!"
+        },
+        {
+          "fileName": [ "cwirek-2-2", "cwirek-2-2-en", "cwirek-2-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "Straciłem piórko broniąc piskląt przed sługami Sarsenbaja.",
+          "en": "I cannot fly, I lost a feather defending chicks from the servants of Sarsenbai.",
+          "de": " Ich kann nicht fliegen, ich habe mein Feder verloren, als ich meine Küken vor Sarsenbays Dienern verteidigte."
+        }
+      ]
+    },
+    {
+      "_id": "62d8ce356a316db56655754e",
+      "dialogName": "Bird3",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "cwirek-3-1", "cwirek-3-1-en", "cwirek-3-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "Dziękuję Ci. Wybacz, ale mam jeszcze jedną prośbę.",
+          "en": "Thank you. But I have one more request. ",
+          "de": "Danke! Aber ich habe noch eine Bitte."
+        },
+        {
+          "fileName": [ "cwirek-3-2", "cwirek-3-2-en", "cwirek-3-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "Muszę zostać z pisklętami. Pomóż mi znaleźć dla nich pożywienie...",
+          "en": "I have to stay with the chicks. Help me find food for them...",
+          "de": "Ich muss bei den Küken bleiben, denn der Feind lauert. Hilf mir, Nahrung für meine Küken zu finden..."
+        },
+        {
+          "fileName": [ "cwirek-3-3", "cwirek-3-3-en", "cwirek-3-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "...a podaruję Ci inne literki, które powinny trafić na swoje miejsca w Abecadłowie.",
+          "en": "...and I will give you other letters that should go to their places in the Alphabet.",
+          "de": "...und ich werde dich andere Buchstaben geben, die man an seinen Ort im Buchstabenland legen soll!"
+        },
+        {
+          "fileName": [ "cwirek-3-4", "cwirek-3-4-en", "cwirek-3-4-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": " Udało mi się je złapać, gdy wiały wiatry Sarsenbaja.",
+          "en": "I managed to catch them when the Sarsenbai winds blew.",
+          "de": "Ich habe es geschafft, sie zu fangen, als die Sarsenbaj-Winde wehten."
+        }
+      ]
+    },
+    {
+      "_id": "62d8d4d06a316db56655754f",
+      "dialogName": "Bird4",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "cwirek-4-1", "cwirek-4-1-en", "cwirek-4-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "O, robaki! Będę mógł nakarmić moje maluchy.",
+          "en": "Oh, worms! I will be able to feed my little ones.  ",
+          "de": "Ah, Würmer! Ich werde in der Lage sein, die Küken zu füttern."
+        },
+        {
+          "fileName": [ "cwirek-4-2", "cwirek-4-2-en", "cwirek-4-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "Masz tu zachowane przeze mnie literki. Proszę!",
+          "en": "Here are the letters I saved.",
+          "de": "Hier sind die Buchstaben, die ich für dich gespeichert habe."
+        },
+        {
+          "fileName": [ "cwirek-4-3", "cwirek-4-3-en", "cwirek-4-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Dziękuję!",
+          "en": "Thank you!",
+          "de": "Danke!"
+        }
+      ]
+    },
+    {
+      "_id": "62d8d75d6a316db566557550",
+      "dialogName": "Frog1",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "zaba-1-1", "zaba-1-1-en", "zaba-1-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rechotka", "Ribbit", "Frohfrosch" ],
+          "characterSprite": "frog-talking",
+          "pl": "Nicponiu! Reh, reh. Dobrze że Cię widzę! Reh, reh",
+          "en": "Blighter, Bleiter! It's good to see you.",
+          "de": "Hallo Schlingel! Gut, das ich dich sehe!"
+        },
+        {
+          "fileName": [ "zaba-1-2", "zaba-1-2-en", "zaba-1-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Witaj Rechotko!",
+          "en": "Hello!",
+          "de": "Hallo, Frohfrosch!"
+        },
+        {
+          "fileName": [ "zaba-1-3", "zaba-1-3-en", "zaba-1-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rechotka", "Ribbit", "Frohfrosch" ],
+          "characterSprite": "frog-talking",
+          "pl": "Możesz mi pomóc? Reh,reh...",
+          "en": "Can you help me?",
+          "de": "Kannst du mir helfen? Reh,reh..."
+        },
+        {
+          "fileName": [ "zaba-1-4", "zaba-1-4-en", "zaba-1-4-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rechotka", "Ribbit", "Frohfrosch" ],
+          "characterSprite": "frog-talking",
+          "pl": "Zniknęło część literek z mego imienia.",
+          "en": "Some of the letters from my name are gone.",
+          "de": "Ein Teil meines Namens ist verschwunden."
+        },
+        {
+          "fileName": [ "zaba-1-5", "zaba-1-5-en", "zaba-1-5-de", "" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rechotka", "Ribbit", "Frohfrosch" ],
+          "characterSprite": "frog-talking",
+          "pl": "Jeśli znikną kolejne, przestanę istnieć.",
+          "en": "If more of them disappear, I will cease to exist.",
+          "de": "Die Buchstaben sind weg. Wenn die sonstige verschwinden, ich höre auf zu egzistieren."
+        },
+        {
+          "fileName": [ "zaba-1-6", "zaba-1-6-en", "zaba-1-6-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Poczekaj, idę na poszukiwania.",
+          "en": "Wait, I'm going on a search.",
+          "de": "Warte, ich mache mich sofort auf die Suche."
+        }
+      ]
+    },
+    {
+      "_id": "62d8f5316a316db566557551",
+      "dialogName": "Frog2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "zaba-2-1", "zaba-2-1-en", "zaba-2-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "O, świetnie! Znalazłem literę dla Rechotki.",
+          "en": "Oh, great! I’ve found a letter for Ribbit.",
+          "de": "Na, super! Ich habe die Buchstabe für Frohfrosch endlich gefunden!"
+        },
+        {
+          "fileName": [ "zaba-2-2", "zaba-2-2-en", "zaba-2-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rechotka", "Ribbit", "Frohfrosch" ],
+          "characterSprite": "frog-talking",
+          "pl": "Niech Ci szczęście sprzyja. Uratuj nas, przyjacielu!",
+          "en": "Reh,reh! May happiness be with you. Save us, Blighter!",
+          "de": "Sei glucklich in deine Reise! Rette uns, Freund!"
+        },
+        {
+          "fileName": [ "zaba-2-3", "zaba-2-3-en", "zaba-2-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rechotka", "Ribbit", "Frohfrosch" ],
+          "characterSprite": "frog-talking",
+          "pl": "Udało mi się zachować inne literki, które wywiało z innych miejsc. ",
+          "en": "I managed to keep some other letters that I don't need.",
+          "de": " Es hat mir gelungen, die anderen Buchstaben zu retten. Reh,reh...Die gehören nicht mir zu."
+        },
+        {
+          "fileName": [ "zaba-2-4", "zaba-2-4-en", "zaba-2-4-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rechotka", "Ribbit", "Frohfrosch" ],
+          "characterSprite": "frog-talking",
+          "pl": "Weź je!",
+          "en": "Take them, please.",
+          "de": "Nimm się!"
+        },
+        {
+          "fileName": [ "zaba-2-5", "zaba-2-5-en", "zaba-2-5-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": " Żaba to mistrz skoku.",
+          "en": "Frogs are champion jumpers.\n",
+          "de": "Der Frosch ist doch ein Sprungmeister."
+        },
+        {
+          "fileName": [ "zaba-2-6", "zaba-2-6-en", "zaba-2-6-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Może z tych literek ułożę coś, co pomoże mi uzyskać eliskir super-skoku.",
+          "en": "Maybe I will compose something from these letters, that will help me to get a super-jump potion.",
+          "de": "Vielleicht aus diese Buchstaben erhalte ich ein Supersprungelixier."
+        }
+      ]
+    },
+    {
+      "_id": "62d91a9a6a316db566557552",
+      "dialogName": "Squirel1",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "wiewiorka-1-1", "wiewiorka-1-1-en", "wiewiorka-1-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Oo...o!",
+          "en": "O...o!",
+          "de": "Halo! O...oh! Halo!"
+        },
+        {
+          "fileName": [ "wiewiorka-1-2", "wiewiorka-1-2-en", "wiewiorka-1-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "O...Nicpoń! Dzień dobry! Ratuj mnie! ",
+          "en": "O...Blighter! Good morning! Help me! ",
+          "de": "Hallo Schlingel! Halo!"
+        },
+        {
+          "fileName": [ "wiewiorka-1-3", "wiewiorka-1-3-en", "wiewiorka-1-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": " Nie mogę żyć bez moich literek! Nie mam siły, by się stąd ruszyć.",
+          "en": "I can't speak without letters!",
+          "de": " Ich kann nicht ohne meine Buchstaben leben! Ich habe keine Kraft mehr mich zu bewegen und reden."
+        },
+        {
+          "fileName": [ "wiewiorka-1-4", "wiewiorka-1-4-en", "wiewiorka-1-4-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Wichry niebawem mogą odebrać mi resztę literek z imienia i przestanę istnieć!",
+          "en": "The winds may soon take the rest of the letters from my name and I will cease to exist!",
+          "de": "Die Winde können bald den Rest von Buchstaben meines Namens nehmen und dann komme ich ums Leben!"
+        },
+        {
+          "fileName": [ "wiewiorka-1-5", "wiewiorka-1-5-en", "wiewiorka-1-5-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Mógłbyś mnie uratować Nicponiu? ",
+          "en": "Could you save me, Blighter?",
+          "de": "Könntest du mich retten? "
+        },
+        {
+          "fileName": [ "wiewiorka-1-6", "wiewiorka-1-6-en", "wiewiorka-1-6-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Widziałam jak wiatry zawiały literki pod wielki owoc orzecha.",
+          "en": "I hid my letters in a nut...",
+          "de": "Ich sah, dass meine Buchstaben unter die riesige Nuss gefallen waren."
+        },
+        {
+          "fileName": [ "wiewiorka-1-7", "wiewiorka-1-7-en", "wiewiorka-1-7-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Może nie wywiało ich do Sarsenbaja?",
+          "en": "... but moths took them somewhere.",
+          "de": "Vielleicht sind się nicht nach Sarsenbai rausgeblasen?"
+        }
+      ]
+    },
+    {
+      "_id": "62d932c56a316db566557553",
+      "dialogName": "Squirel2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "wiewiorka-2-1", "wiewiorka-2-1-en", "wiewiorka-2-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "I proszę! Zrobione!",
+          "en": "Here you are! Done!",
+          "de": "Na, toll! Abgemacht!"
+        },
+        {
+          "fileName": [ "wiewiorka-2-2", "wiewiorka-2-2-en", "wiewiorka-2-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Czy udało Ci się odzyskać moje literki?",
+          "en": "Did you manage to recover my hidden letters?",
+          "de": " Hast du meine Buchstaben?"
+        },
+        {
+          "fileName": [ "wiewiorka-2-3", "wiewiorka-2-3-en", "wiewiorka-2-3-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": " Uratowałeś mnie! Uratowałeś! Uratowałeś!",
+          "en": "You saved me! You saved me!",
+          "de": "Du hast mich geretet! Du hast mich geretet!"
+        },
+        {
+          "fileName": [ "wiewiorka-2-4", "wiewiorka-2-4-en", "wiewiorka-2-4-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Weź w zamian orzecha.",
+          "en": "Thank you! Take a nut instead.",
+          "de": "Nimm meine leckere Nuss dafür."
+        },
+        {
+          "fileName": [ "wiewiorka-2-5", "wiewiorka-2-5-en", "wiewiorka-2-5-de" ],
+          "textDuration": [ 0.060000002384185791, 0.060000002384185791, 0.060000002384185791 ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Jeśli będziesz w potrzebie, zjedz go, a uzyskasz nowe siły.",
+          "en": "If you are in need, eat it and you will gain new strength.",
+          "de": " Wenn du in Not wirst, iss es und du wirst mehr an Kraft gewinnen."
+        }
+      ]
+    },
+    {
+      "_id": "62d942316a316db566557554",
+      "dialogName": "Marmot1",
+      "hasShort": "true",
+      "shortDialogName": "Groundhog-short-1",
+      "segments": [
+        {
+          "fileName": [ "swistak-1-1", "swistak-1-1-en", "swistak-1-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Nicponiu, pomóż mi! Jestem tu! Utknąłem między kamieniami.",
+          "en": "Blighter, help me! I'm here! I'm stuck between the stones.",
+          "de": "Schlingel, hilf mir! Ich bin hier! Ich stecke zwischen den Felsen fest."
+        },
+        {
+          "fileName": [ "swistak-1-2", "swistak-1-2-en", "swistak-1-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "hasShort": "false",
+          "shortDialogName": "Groundhog-short-1",
+          "characterSprite": "groundhog-talking",
+          "pl": "Nie mogę się wydostać. ",
+          "en": "I can't get out.",
+          "de": " Ich kann nicht aussteigen. "
+        }
+
+      ]
+    },
+
+    {
+      "_id": "62d94a2f6a316db566557555",
+      "dialogName": "Marmot2",
+      "hasShort": "true",
+      "shortDialogName": "Groundhog-short-2",
+      "segments": [
+        {
+          "fileName": [ "swistak-2-1", "swistak-2-1-en", "wiewiorka-2-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Nie dość, że głazy spadły na mnie, gdy Sarsenbaj wywołał nagłe wichury...",
+          "en": "Not only did the boulders fall on me when Sarsenbaj caused sudden storms...",
+          "de": "Als Sarsenbaj einen plötzlichen Sturm blies, fielen nicht nur die Felsbrocken auf mich..."
+        },
+        {
+          "fileName": [ "swistak-2-2", "swistak-2-2-en", "swistak-2-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "...to jeszcze wywiało literki z mego imienia.",
+          "en": "...it also blew letters from my name.",
+          "de": "...sondern er blies auch die Buchstaben aus meinem Namen heraus."
+        },
+        {
+          "fileName": [ "swistak-2-3", "swistak-2-3-en", "swistak-2-3-de" ],
+          "textDuration": [ 0.09, 0.09, 0.09 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Chciałbym Ci pomóc ale nie wiem czy mi się uda",
+          "en": "I would like to help you, but I don't know if I can.",
+          "de": "Ich möchte dir helfen, ich weiß nicht, ob ich das kann."
+        },
+        {
+          "fileName": [ "swistak-2-4", "swistak-2-4-en", "swistak-2-4-de" ],
+          "textDuration": [ 0.09, 0.09, 0.09 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Spróbuj, bo nie ma dla mnie innego ratunku.",
+          "en": "Try doing it, because there is no other help for me.",
+          "de": "Versuch es, denn es gibt keinen anderen Weg, mich zu retten."
+        },
+        {
+          "fileName": [ "swistak-2-5", "swistak-2-5-en", "swistak-2-5-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Próbuj dalej! Proszę!",
+          "en": "Please keep on trying!",
+          "de": "Versuch’s weiter! bitte!"
+        }
+      ]
+    },
+    {
+      "_id": "62d94a2f6a316db566557556",
+      "dialogName": "Marmot3",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "swistak-3-1", "swistak-3-1-en", "swistak-3-1-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Wspaniale!",
+          "en": "Great!",
+          "de": "Toll!"
+        },
+        {
+          "fileName": [ "swistak-3-2", "swistak-3-2-en", "swistak-3-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Uratowałeś mnie, a ja mam tylko trochę złapanych robaków.",
+          "en": "You saved me but I just have some bugs that I had caught.",
+          "de": "Du hast mich gerettet, und ich habe nur ein paar Wanzen gefangen."
+        },
+        {
+          "fileName": [ "swistak-3-3", "swistak-3-3-en", "swistak-3-3-de" ],
+          "textDuration": [ 0.1, 0.1, 0.1 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "To jedyne co mam.",
+          "en": "It's all I have. Here you are!",
+          "de": " Das ist alles, was ich habe. Bitte!"
+        },
+        {
+          "fileName": [ "swistak-3-4", "swistak-3-4-en", "swistak-3-4-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Powiem ci jeszcze coś ważnego",
+          "en": "Let me tell you something very important.",
+          "de": "Ich sage dir noch was wichtiges."
+        },
+        {
+          "fileName": [ "swistak-3-5", "swistak-3-5-en", "swistak-3-5-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "By przedostać się przez osuwisko, przepłyń rzeką w łodzi...",
+          "en": "To make your way over the landslide you need to cross the river in a boat...",
+          "de": "Um über den Erdrutsch zu gelangen, fahr mit einem Boot..."
+        },
+        {
+          "fileName": [ "swistak-3-6", "swistak-3-6-en", "swistak-3-6-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "...która stoi przy tatarakach. Nie ma innej drogi.",
+          "en": "...that you’ll find close to calamus. There is no other way.",
+          "de": "...das beim Kalmus steht. Es gibt keinen anderen Weg."
+        }
+      ]
+    },
+
+
+    {
+      "_id": "62e11104c97a2114a7a5b5b3",
+      "dialogName": "ScampBackpack",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-plecak", "nicpon-plecak-en", "nicpon-plecak-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Dotknij mnie, aby zobaczyć mój plecak.",
+          "en": "Touch me, to see my inventory.",
+          "de": "Berühre mich, um meine Ausrüstung zu sehen."
+        }
+      ]
+    },
+    {
+      "_id": "62e11569c97a2114a7a5b5b4",
+      "dialogName": "ScampComeBackLater",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-wrocic-pozniej", "nicpon-wrocic-pozniej-en", "nicpon-wrocic-pozniej-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Muszę tu wrócić później.",
+          "en": "I have to come back here later.",
+          "de": "Ich muss hier später zurückkommen."
+        }
+      ]
+    },
+    {
+      "_id": "62e116d3c97a2114a7a5b5b5",
+      "dialogName": "ScampDoesNotFit",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-nie-pasuje", "nicpon-nie-pasuje-en", "nicpon-nie-pasuje-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Eh! Ta litera nie pasuje.",
+          "en": "Oops! That letter doesn't match.",
+          "de": "Ups! Dieser Buchstabe passt hier nicht rein."
+        }
+      ]
+    },
+    {
+      "_id": "62e11882c97a2114a7a5b5b6",
+      "dialogName": "ScampWillTryDiffrent",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-sprobuje-inna", "nicpon-sprobuje-inna-en", "nicpon-sprobuje-inna-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Spróbuję inną literę.\n",
+          "en": "I'll try another letter.",
+          "de": "Ich versuche es mit einem anderen Buchstaben."
+        }
+      ]
+    },
+    {
+      "_id": "62e11948c97a2114a7a5b5b7",
+      "dialogName": "ScampFullBag",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-pelny-plecak", "nicpon-pelny-plecak-en", "nicpon-pelny-plecak-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Mam pełny plecak!",
+          "en": "My inventory is full!",
+          "de": "Ich kann nichts mehr in meine Ausrüstung zugeben!"
+        }
+      ]
+    },
+    {
+      "_id": "62e119cec97a2114a7a5b5b8",
+      "dialogName": "ScampToMuchInBag",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-nie-zmieszcze", "nicpon-nie-zmieszcze-en", "nicpon-nie-zmieszcze-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Więcej nie zmieszczę w tym plecaku.",
+          "en": "I can't fit more in my inventory.",
+          "de": "Ich kann nichts mehr tragen."
+        }
+      ]
+    },
+    {
+      "_id": "62e11b29c97a2114a7a5b5bb",
+      "dialogName": "ScampBorred",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-nudze-sie", "nicpon-nudze-sie-en", "nicpon-nudze-sie-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Nudzę się!",
+          "en": "I'm bored!",
+          "de": "Ich langweile mich so!"
+        }
+      ]
+    },
+    {
+      "_id": "62e11dccc97a2114a7a5b5bc",
+      "dialogName": "ScampTime",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-czas", "nicpon-czas-en", "nicpon-czas-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Czas ucieka! Muszę coś zrobić!",
+          "en": "I have to make it, before the time rans out!",
+          "de": "Ich muss es schaffen, bevor ie Zeit abläuft!"
+        }
+      ]
+    },
+    {
+      "_id": "62e11f0bc97a2114a7a5b5bd",
+      "dialogName": "ScampNeedToDoSomething",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-zrobic", "nicpon-zrobic-en", "nicpon-zrobic-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Czas ucieka! Muszę coś zrobić!",
+          "en": "I have to do something!",
+          "de": "Ich muss es schaffen, bevor die Zeit abläuft"
+        }
+      ]
+    },
+    {
+      "_id": "62e11fccc97a2114a7a5b5be",
+      "dialogName": "ScampItDoesntWork",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-nic-nie-da", "nicpon-nic-nie-da-en", "nicpon-nic-nie-da-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Chyba nic to nie da.",
+          "en": "Nothing doing",
+          "de": "Das brignt nichts."
+        }
+      ]
+    },
+    {
+      "_id": "62e1209dc97a2114a7a5b5bf",
+      "dialogName": "ScampTryDiffrentLetter",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-sprobuj", "nicpon-sprobuj-en", "nicpon-sprobuj-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Spróbuj inną literę.",
+          "en": "Try another one.",
+          "de": "Bitte, versuche es mit einem anderen Buchstaben."
+        }
+      ]
+    },
+    {
+      "_id": "62e1217fc97a2114a7a5b5c0",
+      "dialogName": "ScampItDoesntWork2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "nicpon-nic-2", "nicpon-nic-2-en", "nicpon-nic-2-de" ],
+          "textDuration": [ 0.06, 0.06, 0.06 ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Chyba nic to nie da.",
+          "en": "Nothing doing!",
+          "de": "Es ist sinnlos!"
+        }
+      ]
+    },
+    {
+      "_id": "0",
+      "dialogName": "None",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [ "", "", "" ],
+          "textDuration": [ 0, 0, 0 ],
+          "characterName": [ "", "", "" ],
+          "characterSprite": "",
+          "pl": "",
+          "en": "!",
+          "de": "Es ist sinnlos!"
+        }
+      ]
+    },
+    {
+      "_id": "62e2290c55bfa5436c9297f8",
+      "dialogName": "Intro",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "intro-page-1",
+            "intro-page-1-en",
+            "intro-page-1-de"
+          ],
+          "textDuration": [
+            0.07,
+            0.07,
+            0.07
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Działo się to dawno temu w krainie Abecadłowa, gdzie żyły dzieci razem ze swoimi literkami, które były dla nich dobrymi duszkami. Litery wypełniały ich książki i uczyły ich wszystkiego co potrzebne.",
+          "en": "It happened a long time ago in the Abcland, where children lived together with their letters, who were good spirits for them. Letters filled books and taught kids everything that was needed.",
+          "de": "Es geschah vor langer Zeit in Buchstabenland. Da lebten nur die Kinder mit seinen Buchstaben, die\nfür sie gute Geister waren. Die Buchstaben füllten ihre Bücher und lehrten sie alles über die Welt."
+        },
+        {
+          "fileName": [
+            "intro-page-2",
+            "intro-page-2-en",
+            "intro-page-2-de"
+          ],
+          "textDuration": [
+            0.09,
+            0.09,
+            0.09
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Dzieci spędzały tak beztrosko całe dnie na pracy, nauce i zabawie. Było tak do czasu gdy zły władca Sersenbaj - pan wszystkich wiatrów, zapragnął władzy nad całym światem. ",
+          "en": "The children spent so carelessly all their time studying, working and playing. It was like that until the evil ruler Sersenbaj - the lord of all winds, wanted power over the whole world.",
+          "de": "Die Kinder verbrachten ihre ganze Zeit so sorglos mit Lernen, Arbeiten und Spielen. Es war so, bis\nder böse Herrscher Sersenbaj - der Herr aller Winde - die Macht über die ganze Welt wollte."
+        },
+        {
+          "fileName": [
+            "intro-page-3",
+            "intro-page-3-en",
+            "intro-page-3-de"
+          ],
+          "textDuration": [
+            0.078,
+            0.078,
+            0.078
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Postanowił przejąć na wyłączność wiedzę całego świata i zapanować nad nim. Jego złe wichry wywiady z książek, nazw i imion w Abecadłowie niemal wszystkie literki.",
+          "en": "He decided to take away all knowledge of the world only for himself to rule on earth. \n\nHis bad winds blew almost all letters from books and names of Abcland.",
+          "de": "\nEr beschloss, das Wissen der ganzen Welt nur für sich haben und sie zu kontrollieren. Sein böser\nWind blies fast alle Buchstaben aus Büchern, Namen von ganzem Land."
+        },
+        {
+          "fileName": [
+            "intro-page-4",
+            "intro-page-4-en",
+            "intro-page-4-de"
+          ],
+          "textDuration": [
+            0.078,
+            0.078,
+            0.078
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Bez swoich nazw osoby i przedmioty przestawały istnieć. Wkrótce całej krainie grozi zagłada. Dużo ludzików i rzeczy zniknęło już raz na zawsze.",
+          "en": "Without his names the persons and things can no longer exist. Soon the land could be destroyed. Lots of little man and things are gone forever.",
+          "de": "Ohne ihre Namen hörten Menschen und Gegenstände auf zu existieren. Bald ist das ganze Land von Zerstörung bedroht. Viele Männchen und Dinge sind für immer weg."
+        },
+        {
+          "fileName": [
+            "intro-page-5",
+            "intro-page-5-en",
+            "intro-page-5-de"
+          ],
+          "textDuration": [
+            0.08,
+            0.08,
+            0.08
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Teraz krainę Abecadłowa może uratować tylko pewien urwis, który nie boi się złego władcy wiatrów.Przezwano go Nicponiem, bo dotąd nad naukę przedkładał psoty i zabawę.\n",
+          "en": "Now the land can only be saved by jaunty bundle, who is not afraid of the evil lord of the winds. He was called Blighter because he so far put fun and rigs ahead of learning.",
+          "de": "Jetzt kann Buchstabenland nur von einem streitlustigen Lausbub gerettet werden, der keine Angst vor dem bösen Herrn der Winde hat. Er wurde Schlingel genannt, weil er Unfug und Spiel vor Lernen bevorzugte."
+        },
+        {
+          "fileName": [
+            "intro-page-6",
+            "intro-page-6-en",
+            "intro-page-6-de"
+          ],
+          "textDuration": [
+            0.09,
+            0.09,
+            0.09
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Jeśli Nicpoń zwycięży, to nie tylko uratuje Abecadłowo ale sam również odzyska swoje prawdziwe imię, pozna litery i nauczy się czytać i pisać.",
+          "en": "If Blighter  win, he will not only save Abcland yours, but he will also earn his real name back, learn the letters and will be able to read and write.",
+          "de": "Wenn Schlingel gewinnt, wird er nicht nur Buchstabenland retten. Er kann auch seinen richtigen Namen wiedererlangen, die Buchstaben lernen und endlich lesen und\nschreiben."
+        }
+      ]
+    },
+    {
+      "_id": "636e001160b59c886eef3ee3",
+      "dialogName": "whatNow",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "whatNow",
+            "whatNow-en",
+            "whatNow-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Co teraz?",
+          "en": "What now?",
+          "de": "Na, was nun?"
+        }
+      ]
+    },
+    {
+      "_id": "636e116960b59c886eef3ee4",
+      "dialogName": "Thanks",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "thanks",
+            "thanks-en",
+            "thanks-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Dziękuję!",
+          "en": "Thank you!",
+          "de": "Danke!"
+        }
+      ]
+    },
+    {
+      "_id": "636e11f860b59c886eef3ee5",
+      "dialogName": "BuyTimeElixir",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "buyTimeElixir",
+            "buyTimeElixir-en",
+            "buyTimeElixir-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Będę zaczynał od nowa albo dokupię eliksir czasu.",
+          "en": "I will start over or buy time elixir.",
+          "de": "Ich fange neu an oder kaufe ein Zeitelixier."
+        }
+      ]
+    },
+    {
+      "_id": "636e12ed60b59c886eef3ee6",
+      "dialogName": "ScampTime",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "scamp-time-pl",
+            "scamp-time-en",
+            "scamp-time-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Muszę zdążyć przed upływem czasu!",
+          "en": "I have to do it before the time is running out!",
+          "de": "Ich muss es schaffen before die Zeit abläuft!"
+        }
+      ]
+    },
+    {
+      "_id": "636e131e60b59c886eef3ee7",
+      "dialogName": "fixIt",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "fixIt",
+            "fixIt-en",
+            "fixIt-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Muszę to naprawić.",
+          "en": "I have to fix it.",
+          "de": "Ich muss es reparieren."
+        }
+      ]
+    },
+    {
+      "_id": "636e13d060b59c886eef3ee8",
+      "dialogName": "hereYouAre",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "hereYouAre",
+            "hereYouAre-en",
+            "hereYouAre-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Proszę!",
+          "en": "Here you are!",
+          "de": "Bitte!"
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3eea",
+      "dialogName": "BuySomething",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "buySomething",
+            "buySomething-en",
+            "buySomething-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [
+            "Nicpoń",
+            "Blighter",
+            "Schlingel"
+          ],
+          "characterSprite": "hero-talking",
+          "pl": "Chyba mogę coś kupić.",
+          "en": "I think, I can buy something.",
+          "de": "Ich denke, ich kann etwas kaufen."
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3000",
+      "dialogName": "Groundhog-short-1",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "groundhog-short-1",
+            "groundhog-short-1-en",
+            "groundhog-short-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Nicponiu! Pomóż mi! Jestem tu! Utknąłęm między kamieniami.",
+          "en": "Help me! I'm here! I've got stuck between the stones.",
+          "de": "Hilf mir! Ich bin hier! Ich stecke zwischen den Felsen fest."
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3000",
+      "dialogName": "Groundhog-short-2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "groundhog-short-2-1",
+            "groundhog-short-2-1-en",
+            "groundhog-short-2-1-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "Nie dość, że głazy spadły na mnie, gdy Sarsenbai wywołał nagłe wichury...",
+          "en": "Not only did the boulders fall on me when Sarsenbaj caused sudden storms...",
+          "de": "Als Sarsenbaj einen plötzlichen Sturm blies, fielen nicht nur die Felsbrocken auf mich..."
+        },
+        {
+          "fileName": [
+            "groundhog-short-2-2",
+            "groundhog-short-2-2-en",
+            "groundhog-short-2-2-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Świstak", "Tracker", "Gemurmel" ],
+          "characterSprite": "groundhog-talking",
+          "pl": "...to jeszcze wywiało literki z mojego imienia",
+          "en": "...it also blew letters from my name.",
+          "de": "...sondern er blies auch die Buchstaben aus meinem Namen heraus."
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3001",
+      "dialogName": "Bird-short-1",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "bird-short-1",
+            "bird-short-1-en",
+            "bird-short-1-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogel" ],
+          "characterSprite": "bird-talking",
+          "pl": "Pomóż mi! Nie mogę latać!",
+          "en": "Help me! I can't fly!",
+          "de": "Hilf mir! Ich kann nicht fliegen!"
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3002",
+      "dialogName": "Bird-short-2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "bird-short-2",
+            "bird-short-2-en",
+            "bird-short-2-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Ćwirek", "Tweety", "Vogli" ],
+          "characterSprite": "bird-talking",
+          "pl": "Muszę zostać z pisklętami. Pomóż mi znaleźć dla nich pożywienie.",
+          "en": "I have to stay with the chicks. Help me find some food for them.",
+          "de": "Hilf mir Nahrung für die Kinder zu finden."
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3004",
+      "dialogName": "Rechotka-short-2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "rechotka-short-1",
+            "rechotka-short-1-en",
+            "rechotka-short-1-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Rechotka", "Ribbit", "Frohfrosch" ],
+          "characterSprite": "frog-talking",
+          "pl": "Możesz mi pomóc? Zniknęło część literek z mego imienia.",
+          "en": "Can you halp me? Some of the letters from my name are gone.",
+          "de": "Kannst du mir helfen? Ein Tail meines Namens ist verschwunden."
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3005",
+      "dialogName": "Firefly-short-1",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "firefly-shorts-1",
+            "firefly-shorts-1-en",
+            "firefly-shorts-1-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Świetlik", "Biffle", "Glühwürmchen" ],
+          "characterSprite": "firefly-talking",
+          "pl": "Chcę ci pomóc, ale proszę, ty pomóż i mnie. Wichry Sarsenbaja zabrały mi literki z imienia.",
+          "en": "Please, help me! Sarsenbai's wind took the letters from my name.",
+          "de": "Hilf mir, bitte! Sarsenbais Winde nahmen die Buchstaben von meinem Namen."
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3005",
+      "dialogName": "Squirrel-short-1",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "squirrel-short-1",
+            "squirrel-short-1-en",
+            "squirrel-short-1-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Rudoskórka", "Nutsy", "Weichhörnchen" ],
+          "characterSprite": "squirrel-talking",
+          "pl": "Mógłbyś mnie uratować Nicponiu? Widziałam jak wiatry zawiały literki pod wielki owoc orzecha.",
+          "en": "Could you save me Bleiter? I hide my letters in the nut.",
+          "de": "Könntest du mich retten? Ich sah, dass meine Buchstaben unter den riesigen Nuss gefallen waren."
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3006",
+      "dialogName": "Grutek-short-1",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "grutek-short-1",
+            "grutek-short-1-en",
+            "grutek-short-1-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Grutek", "Arbor", "Grutek" ],
+          "characterSprite": "groot-talking",
+          "pl": "Poratuj mnie proszę choć literką, bym mógł powiedzieć to, co chce.",
+          "en": "Please help me to get some letters, so that I could say what I want.",
+          "de": "Rette mich mit einer Buchstabe, damit ich wieder sprechen könne."
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3007",
+      "dialogName": "ScampCanBuySomething",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "buySomething",
+            "buySomething-en",
+            "buySomething-de"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Chyba mogę coś kupić",
+          "en": "I think i can buy something.",
+          "de": "Ich glaube, ich kann etwas kaufen"
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3007",
+      "dialogName": "HaveNoMoney",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "brakujeMiPieniedzy",
+            "brakujeMiPieniedzy",
+            "brakujeMiPieniedzy"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Brakuje mi pieniędzy",
+          "en": "I have no money",
+          "de": "Ich habe kein Geld"
+        }
+      ]
+    },
+    {
+      "_id": "636e14a460b59c886eef3007",
+      "dialogName": "HaveNoMoney2",
+      "hasShort": "false",
+      "shortDialogName": "",
+      "segments": [
+        {
+          "fileName": [
+            "nieMamPieniedzy",
+            "nieMamPieniedzy",
+            "nieMamPieniedzy"
+          ],
+          "textDuration": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "characterName": [ "Nicpoń", "Blighter", "Schlingel" ],
+          "characterSprite": "hero-talking",
+          "pl": "Nie mam pieniędzy",
+          "en": "Have no money",
+          "de": "Habe kein Geld"
+        }
+      ]
+    }
+   
+
+  ]
+    }

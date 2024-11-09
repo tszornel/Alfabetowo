@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdbec23d3aa8284a94f6f5101b6752c, type: 3}
+  m_Name: Stick
+  m_EditorClassIdentifier: 
+  ID: 12
+  type: 2
+  displayName: Kij
+  objectName: Stick
+  itemSprite: {fileID: 21300000, guid: 250f73388ac32ad4382a15feb1ba22f2, type: 3}
+  itemIcon: {fileID: -6735297461141414853, guid: 37eae46967bf7624683d8809b2ed539d, type: 3}
+  itemSpriteDamaged: {fileID: 21300000, guid: 176025b8b4ba38a40bd34cd4fc7028b4, type: 3}
+  amount: 1
+  description: KIJ
+  price: 1
+  itemPrefab: {fileID: 0}
+  buffs:
+  - attribute: 0
+    value: 4
+    min: 1
+    max: 5
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 11400000, guid: 8ada6c6e8683cf94a800b7a374f2262a, type: 2}
+  WeaponType: 1

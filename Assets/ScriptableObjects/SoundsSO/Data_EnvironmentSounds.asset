@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c9ee3b007f82444806bfab3d865b8d, type: 3}
+  m_Name: Data_EnvironmentSounds
+  m_EditorClassIdentifier: 
+  audioClipsAttackHand:
+  - {fileID: 8300000, guid: 50c2993dd55467646b3ab4702dd10c2d, type: 3}
+  audioClipsAttackSword:
+  - {fileID: 8300000, guid: aa456d1305594d44e8e5484933161210, type: 3}
+  audioClipsGetHit:
+  - {fileID: 8300000, guid: aa456d1305594d44e8e5484933161210, type: 3}
+  audioClipsDeath:
+  - {fileID: 8300000, guid: 687e3e4e9a479c641866f6c7a572aa9e, type: 3}
+  audioClipsWalkingOnGround: []
+  audioClipsWalkingOnWater: []
+  audioClipsPickupLetters: []
+  audioClipsPickupItems: []
+  audioClipsFightSword: []
+  audioClipsFightWithHands: []
+  audioClipsFullBag: []
+  audioClipsComeLater: []
+  audioClipsNotWorking: []
+  audioClipsJump: []
+  spiderClip:
+  - {fileID: 8300000, guid: 18114466745c43446ae9de40120b6353, type: 3}
+  switchFrameClip:
+  - {fileID: 8300000, guid: c49b6afd4ce5442428443cff33e6ef1b, type: 3}

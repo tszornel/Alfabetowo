@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdbec23d3aa8284a94f6f5101b6752c, type: 3}
+  m_Name: MagicWand
+  m_EditorClassIdentifier: 
+  ID: 4
+  type: 2
+  displayName: "R\xF3\u017Cd\u017Cka"
+  objectName: MagicWand
+  itemSprite: {fileID: 21300000, guid: a48803111591aab4c8afa1cb1dcac920, type: 3}
+  itemIcon: {fileID: 0}
+  itemSpriteDamaged: {fileID: 21300000, guid: c85a7d4cac8e96a47b3b6a34d916115a, type: 3}
+  amount: 1
+  description: "R\xD3\u017BD\u017BKA"
+  price: 1
+  itemPrefab: {fileID: 0}
+  buffs:
+  - attribute: 0
+    value: 3
+    min: 1
+    max: 5
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 0}
+  WeaponType: 1

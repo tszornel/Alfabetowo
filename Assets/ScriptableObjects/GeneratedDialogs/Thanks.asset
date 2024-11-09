@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Thanks
+  m_EditorClassIdentifier: 
+  Id: 85
+  dialogName: Thanks
+  dialogSegments:
+  - lineOfText: "Dzi\u0119kuj\u0119!"
+    dialogLineDisplayTime: 0.019539999
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 92ca86bef6db3774d8f77fab75895fdc, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

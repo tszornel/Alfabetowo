@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218688ab9ecfb614ebb81a9551bc306e, type: 3}
+  m_Name: Nicpon_PlayerData
+  m_EditorClassIdentifier: 
+  categoryLeftLeg: leftLeg
+  categoryRightLeg: rightLeg
+  categoryRightHand: rightHand
+  categoryLeftHand: leftHand
+  categoryCorps: corpse
+  categoryWeapon: Weapon
+  categoryHats: hats
+  labelEmptySword: None
+  labelArmour: corpse_armoured
+  labelNormal: corpse_with_belt
+  labelHat: hat
+  labelHelm: helm
+  labelRightHand_armoured: rightHand_armoured
+  labelLeftHand_armoured: left_hand_armoured
+  labelRightHand_normal: rightHand
+  labelLeftHand_normal: left_hand_standard
+  labelRightLeg_normal: right_leg_standard
+  labelLeftLeg_normal: left_leg_standard
+  labelRightLeg_armoured: right_leg_armoured
+  labelLeftLeg_armoured: left_leg_armoured
+  glowMaterial: {fileID: 2100000, guid: 210ceb9407219a4458ef6f3162bdbb0f, type: 2}
+  standardMaterial: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  playerAttributes:
+  - type: 2
+    value:
+      baseValue: 1
+      modifiedValue: 1
+  - type: 3
+    value:
+      baseValue: 1
+      modifiedValue: 3
+  - type: 0
+    value:
+      baseValue: 1
+      modifiedValue: 1
+  - type: 4
+    value:
+      baseValue: 1
+      modifiedValue: 1
+  - type: 5
+    value:
+      baseValue: 1
+      modifiedValue: 1
+  pickupEffect: {fileID: 6033951012882606298, guid: b7a3fdd9b2a76ab45ad3d8432288ce9d, type: 3}
+  minGroundNormalY: 0.65
+  gravityModifier: 3
+  maxSpeed: 9
+  jumpTakeOffSpeed: 10
+  whatIsEnemies:
+    serializedVersion: 2
+    m_Bits: 2048
+  whatIsItem:
+  - serializedVersion: 2
+    m_Bits: 2048
+  trailObject: {fileID: 0}
+  FireflyFollows: 0
+  superJumpTime: 40
+  playLetterSounds: 1
+  checkPointPosition: {x: 0, y: 0}

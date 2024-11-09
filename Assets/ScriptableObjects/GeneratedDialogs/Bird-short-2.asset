@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Bird-short-2
+  m_EditorClassIdentifier: 
+  Id: 93
+  dialogName: Bird-short-2
+  dialogSegments:
+  - lineOfText: "Musz\u0119 zosta\u0107 z piskl\u0119tami. Pom\xF3\u017C mi znale\u017A\u0107
+      dla nich po\u017Cywienie."
+    dialogLineDisplayTime: 0.0513
+    characterName: "\u0106wirek"
+    characterImage: {fileID: 11400000, guid: f2ba12a2b3ad2ac438626c4385dde6ba, type: 2}
+    audio: {fileID: 8300000, guid: 1eb507e44eb009f43977b38c98a9ce17, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

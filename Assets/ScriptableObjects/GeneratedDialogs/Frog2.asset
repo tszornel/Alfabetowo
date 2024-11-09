@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Frog2
+  m_EditorClassIdentifier: 
+  Id: 64
+  dialogName: Frog2
+  dialogSegments:
+  - lineOfText: "O, \u015Bwietnie! Znalaz\u0142em liter\u0119 dla Rechotki."
+    dialogLineDisplayTime: 0.04301
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: cd10e3d6ee39582449a86002bdc75bcd, type: 3}
+  - lineOfText: "Niech Ci szcz\u0119\u015Bcie sprzyja. Uratuj nas, przyjacielu!"
+    dialogLineDisplayTime: 0.058390003
+    characterName: Rechotka
+    characterImage: {fileID: 11400000, guid: 9c0171ea462b2dc4c8f77b792636ea96, type: 2}
+    audio: {fileID: 8300000, guid: 6dc3be607c359e944bd030ee4623e9c1, type: 3}
+  - lineOfText: "Uda\u0142o mi si\u0119 zachowa\u0107 inne literki, kt\xF3re wywia\u0142o
+      z innych miejsc. "
+    dialogLineDisplayTime: 0.054899998
+    characterName: Rechotka
+    characterImage: {fileID: 11400000, guid: 9c0171ea462b2dc4c8f77b792636ea96, type: 2}
+    audio: {fileID: 8300000, guid: f39ccbdab7bde9a43bb98438c756d478, type: 3}
+  - lineOfText: "We\u017A je!"
+    dialogLineDisplayTime: 0.022079999
+    characterName: Rechotka
+    characterImage: {fileID: 11400000, guid: 9c0171ea462b2dc4c8f77b792636ea96, type: 2}
+    audio: {fileID: 8300000, guid: 1813a7a36671cc4409c6bb6c69b2db3b, type: 3}
+  - lineOfText: " \u017Baba to mistrz skoku."
+    dialogLineDisplayTime: 0.03881
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: ed026aab416fe4b499aac8a8f87cb4e4, type: 3}
+  - lineOfText: "Mo\u017Ce z tych literek u\u0142o\u017C\u0119 co\u015B, co pomo\u017Ce
+      mi uzyska\u0107 eliskir super-skoku."
+    dialogLineDisplayTime: 0.07302
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 64956a0e3bae6154ca09abe69123c852, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

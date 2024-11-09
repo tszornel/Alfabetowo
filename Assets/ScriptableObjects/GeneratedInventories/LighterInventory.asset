@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 995aa16220e65d444b0690773c4c46b1, type: 3}
+  m_Name: LighterInventory
+  m_EditorClassIdentifier: 
+  savePath: 
+  database: {fileID: 11400000, guid: 338493a3afab89b4597e60fbcef2142d, type: 2}
+  inventory:
+    slots:
+    - ID: 0
+      item:
+        Id: 0
+        Name: A
+        DisplayedName: Litera A
+        stackable: 1
+        Type: 1
+        buffs:
+        - attribute: 2
+          value: 1
+          min: 1
+          max: 1
+        Location: 0
+        damaged: 0
+      amount: 1
+    - ID: 1
+      item:
+        Id: 1
+        Name: "\u0104"
+        DisplayedName: "Litera \u0104"
+        stackable: 1
+        Type: 1
+        buffs:
+        - attribute: 2
+          value: 1
+          min: 1
+          max: 1
+        Location: 0
+        damaged: 0
+      amount: 1
+    - ID: 5
+      item:
+        Id: 5
+        Name: E
+        DisplayedName: Litera E
+        stackable: 1
+        Type: 1
+        buffs:
+        - attribute: 2
+          value: 1
+          min: 1
+          max: 1
+        Location: 0
+        damaged: 0
+      amount: 1
+    - ID: 10
+      item:
+        Id: 10
+        Name: I
+        DisplayedName: Litera I
+        stackable: 1
+        Type: 1
+        buffs:
+        - attribute: 2
+          value: 0
+          min: 0
+          max: 0
+        Location: 0
+        damaged: 0
+      amount: 1
+    - ID: 17
+      item:
+        Id: 17
+        Name: O
+        DisplayedName: Litera O
+        stackable: 1
+        Type: 1
+        buffs:
+        - attribute: 2
+          value: 1
+          min: 1
+          max: 1
+        Location: 0
+        damaged: 0
+      amount: 1
+    - ID: 22
+      item:
+        Id: 22
+        Name: U
+        DisplayedName: Litera U
+        stackable: 1
+        Type: 1
+        buffs:
+        - attribute: 2
+          value: 1
+          min: 1
+          max: 1
+        Location: 0
+        damaged: 0
+      amount: 1
+    - ID: 27
+      item:
+        Id: 27
+        Name: Y
+        DisplayedName: Litera Y
+        stackable: 1
+        Type: 1
+        buffs:
+        - attribute: 2
+          value: 1
+          min: 1
+          max: 1
+        Location: 0
+        damaged: 0
+      amount: 1

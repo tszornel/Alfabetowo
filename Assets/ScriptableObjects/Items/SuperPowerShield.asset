@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdbec23d3aa8284a94f6f5101b6752c, type: 3}
+  m_Name: SuperPowerShield
+  m_EditorClassIdentifier: 
+  ID: 26
+  type: 2
+  displayName: Tarcza supermocy
+  objectName: SuperPowerShield
+  itemSprite: {fileID: 21300000, guid: 104b7dd44ed73b247810567fca7c752b, type: 3}
+  itemIcon: {fileID: 0}
+  itemSpriteDamaged: {fileID: 21300000, guid: 26c46e351cf0c1d45816a6c366d77636, type: 3}
+  amount: 1
+  description: TARCZA SUPERMOCY
+  price: 1
+  itemPrefab: {fileID: 9033702158190193019, guid: 5e59dbf047becdf4aa42161087f47dfb, type: 3}
+  buffs:
+  - attribute: 0
+    value: 2
+    min: 1
+    max: 5
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 0}
+  WeaponType: 1

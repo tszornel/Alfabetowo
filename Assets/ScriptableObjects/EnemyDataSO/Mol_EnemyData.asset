@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10bc7a80f25bdbf4298e684c52fd4bf3, type: 3}
+  m_Name: Mol_EnemyData
+  m_EditorClassIdentifier: 
+  enemyName: Mol
+  spriteAsset: {fileID: 11400000, guid: 5658a1b7afd29cc42b6d0f7965a90970, type: 2}
+  image: mol_0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdbec23d3aa8284a94f6f5101b6752c, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  ID: 1
+  type: 2
+  displayName: Tarcza
+  objectName: Shield
+  itemSprite: {fileID: 21300000, guid: 61dce41b46ee55b4c8a9700dd9bd6a1b, type: 3}
+  itemIcon: {fileID: 708536579685990195, guid: 37eae46967bf7624683d8809b2ed539d, type: 3}
+  itemSpriteDamaged: {fileID: 21300000, guid: fbc55a569acdd184e8612a763e2d9771, type: 3}
+  amount: 1
+  description: TARCZA
+  price: 1
+  itemPrefab: {fileID: 9033702158190193019, guid: 5e59dbf047becdf4aa42161087f47dfb, type: 3}
+  buffs:
+  - attribute: 0
+    value: 3
+    min: 1
+    max: 5
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 0}
+  WeaponType: 1

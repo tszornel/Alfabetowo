@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c9ee3b007f82444806bfab3d865b8d, type: 3}
+  m_Name: Data_SoundEffects_BasicEnemy
+  m_EditorClassIdentifier: 
+  audioClipsAttackHand: []
+  audioClipsAttackSword: []
+  audioClipsGetHit:
+  - {fileID: 8300000, guid: 148d1558d2654764c928de1fc593b2b2, type: 3}
+  audioClipsDeath:
+  - {fileID: 8300000, guid: 8ec738ba8c97349468a3800fa16f1a41, type: 3}
+  - {fileID: 8300000, guid: a2c316f5b85d36147b543b31e5d3fadc, type: 3}
+  audioClipsWalkingOnGround: []
+  audioClipsWalkingOnWater: []
+  audioClipsPickupLetters: []
+  audioClipsPickupItems: []
+  audioClipsFightSword: []
+  audioClipsFightWithHands:
+  - {fileID: 8300000, guid: 0a48f3a8d27479b45a9027282c3edd85, type: 3}
+  audioClipsFullBag: []
+  audioClipsComeLater: []
+  audioClipsNotWorking: []
+  audioClipsJump: []
+  spiderClip: []
+  switchFrameClip: []
+  introPageClips: []
+  drowningClips: []
+  successClips: []
+  randomSound:
+  - {fileID: 8300000, guid: aef3f4d7a4ac6b34e8b840d71cea3cc5, type: 3}
+  - {fileID: 8300000, guid: cc5e739df3bc4044ca4e18655266a4da, type: 3}
+  - {fileID: 8300000, guid: 4cd834f459734584d9f33555c96a033e, type: 3}
+  - {fileID: 8300000, guid: 11c3ab33b5e30a34a84b5c9a543bec21, type: 3}
+  - {fileID: 8300000, guid: a73a6d8916ff00441bd9e0ac6e5a74f8, type: 3}
+  repaireClips: []
+  UILighterPanel: []
+  successPanelClip: {fileID: 0}
+  leanTweenSound: {fileID: 0}
+  vibratoSound: {fileID: 0}
+  soundFirst: {fileID: 0}
+  audioClipsPirateSaber: []
+  audioClipsSwatter: []
+  audioClipsStick: []
+  audioClipsBow: []
+  teleportSoundClip: []
+  noMoney: []
+  clockTicking: []
+  clockBack: []

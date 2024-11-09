@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdbec23d3aa8284a94f6f5101b6752c, type: 3}
+  m_Name: Worms
+  m_EditorClassIdentifier: 
+  ID: 7
+  type: 2
+  displayName: Robaki
+  objectName: Worms
+  itemSprite: {fileID: 21300000, guid: 099db1e135a194f4f89c799cb075aadc, type: 3}
+  itemIcon: {fileID: 1679720578910109787, guid: 37eae46967bf7624683d8809b2ed539d, type: 3}
+  itemSpriteDamaged: {fileID: 21300000, guid: 766d498f2098d8f4eb7c094963086b03, type: 3}
+  amount: 1
+  description: ROBAKI
+  price: 1
+  itemPrefab: {fileID: 0}
+  buffs:
+  - attribute: 0
+    value: 1
+    min: 1
+    max: 5
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 0}
+  WeaponType: 4

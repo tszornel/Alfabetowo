@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: GrutekAfter
+  m_EditorClassIdentifier: 
+  Id: 54
+  dialogName: GrutekAfter
+  dialogSegments:
+  - lineOfText: "O! dzi\u0119kuj\u0119 ci! Teraz mog\u0119 wreszcie si\u0119 wys\u0142owi\u0107."
+    dialogLineDisplayTime: 0.066319995
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 40712c948f449c34cb2707e0ff7e0a46, type: 3}
+  - lineOfText: "Je\u015Bli chcesz zadania swojej wyprawy wype\u0142ni\u0107, musisz
+      baczy\u0107 na drzewa."
+    dialogLineDisplayTime: 0.07656
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 168d2d5960e61c84b8894a96e8c6d701, type: 3}
+  - lineOfText: "Znajdziesz w \u015Brodku jednego z nich map\u0119 Twojej podr\xF3\u017Cy."
+    dialogLineDisplayTime: 0.051599998
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 8f9883242c54d5f49a6ddb4f224d5308, type: 3}
+  - lineOfText: "Na po\u017Cegnanie chcia\u0142em przekaza\u0107 Ci co\u015B..."
+    dialogLineDisplayTime: 0.03918
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 2ae2248825c5e7d47a66d6ab773ed109, type: 3}
+  - lineOfText: " ...by\u015B w Twojej wyprawie \u0142atwiej radzi\u0142 sobie z
+      wrogami."
+    dialogLineDisplayTime: 0.042639997
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 2662809aff8c373448c33dc108977f50, type: 3}
+  - lineOfText: "Ukry\u0142em przed nimi miecz, kt\xF3ry teraz Ci chc\u0119 przekaza\u0107."
+    dialogLineDisplayTime: 0.061839998
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 2b98ca07f04238c45abffde478ea396a, type: 3}
+  - lineOfText: "Ten miecz nazywa si\u0119 \u201E\u017C\u0105d\u0142o\u201D i s\u0142udzy
+      Sarsenbaja..."
+    dialogLineDisplayTime: 0.049009997
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: fafbfb3567372f2418f7821ceb4760bb, type: 3}
+  - lineOfText: " ...truchlej\u0105 przed nim z przera\u017Cenia."
+    dialogLineDisplayTime: 0.03563
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 626c9bff57eb19f45a7cf22d2b2bf427, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 1
+  shortDialogName: Grutek-short-2
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

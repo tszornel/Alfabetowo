@@ -1,0 +1,2508 @@
+{
+  "data": [
+    {
+      "_id": "0",
+      "name": "Paddle",
+      "displayName": [ "WIOSŁO", "PADDLE", "RUDER" ],
+      "spriteName": "PaddleDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "Ł"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "D"
+        },
+        {
+          "active": "true",
+          "itemName": "D"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "D"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ]
+    },
+    {
+      "_id": "0",
+      "name": "BlueKey",
+      "displayName": [ "NIEBIESKI-KLUCZ", "BLUE-KEY", "BLUE-SCHLÜSSEL" ],
+      "spriteName": "blue-key-damaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "true",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "Dash"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "Dash"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "Y"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "true",
+          "itemName": "Ü"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ]
+    },
+    {
+      "_id": "0",
+      "name": "BrownKey",
+      "displayName": [ "BRĄZOWY-KLUCZ", "BROWN-KEY", "BRAUN-SCHLÜSSEL" ],
+      "spriteName": "brown-key-damaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "Ą"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "Y"
+        },
+        {
+          "active": "true",
+          "itemName": "Dash"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "Y"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "true",
+          "itemName": "Ü"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ]
+
+    },
+    {
+      "_id": "0",
+      "name": "Key",
+      "displayName": [ "KLUCZ", "KEY", "SCHLÜSSEL" ],
+      "spriteName": "KeyDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "Y"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "true",
+          "itemName": "Ü"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ]
+
+    },
+    {
+      "_id": "0",
+      "name": "Shovel",
+      "displayName": [ "ŁOPATA", "SHOVEL", "SCHAUFEL" ],
+      "spriteName": "ShovelDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "Ł"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "V"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "F"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ]
+
+    },
+    {
+      "_id": "0",
+      "name": "Feather",
+      "displayName": [ "PIÓRKO", "FEATHER", "FEDER" ],
+      "spriteName": "FeatherDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "Ó"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "F"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "F"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "D"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+
+      ]
+
+    },
+    {
+      "_id": "0",
+      "name": "Worms",
+      "displayName": [ "ROBAKI", "WORMS", "WÜRMER" ],
+      "spriteName": "WormsDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "true",
+          "itemName": "Ü"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+
+      ]
+
+    },
+    {
+      "_id": "0",
+      "name": "Stick",
+      "displayName": [ "KIJ", "STICK", "SCHLÄGER" ],
+      "spriteName": "StickDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "J"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "true",
+          "itemName": "Ä"
+        },
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "SuperJumpElixir",
+      "displayName": [ "SUPER-SKOK", "SUPER-JUMP", "SUPERSPRUNG" ],
+      "spriteName": "SuperJumpElixirDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "Dash"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "Dash"
+        },
+        {
+          "active": "true",
+          "itemName": "J"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "true",
+          "itemName": "Space"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "X"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "X"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "TimeElixir",
+      "displayName": [ "ELIKSIR CZASU", "TIME ELIXIR", "ZEITELIXIER" ],
+      "spriteName": "TimeElixirDamaged",
+      "pl": [
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "Space"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        }
+
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "Space"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "truee",
+          "itemName": "X"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "Z"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "X"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "Coin",
+      "displayName": [ "MONETA", "COIN", "MÜNZE" ],
+      "spriteName": "Coin",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "true",
+          "itemName": "Ü"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        }
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "SuperSword",
+      "displayName": [ "MIECZ-ŻĄDŁO", "STING-SWORD", "STACHEL-SCHWERT" ],
+      "spriteName": "StingSwordDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        },
+        {
+          "active": "true",
+          "itemName": "Dash"
+        },
+        {
+          "active": "true",
+          "itemName": "Ż"
+        },
+        {
+          "active": "true",
+          "itemName": "Ą"
+        },
+        {
+          "active": "true",
+          "itemName": "D"
+        },
+        {
+          "active": "true",
+          "itemName": "Ł"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "true",
+          "itemName": "Dash"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "D"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "false",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "true",
+          "itemName": "Dash"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "false",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        }
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "Sword",
+      "displayName": [ "MIECZ", "SWORD", "SCHWERT" ],
+      "spriteName": "SuperPowerSwordDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "D"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        }
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "Saber",
+      "displayName": [ "SZABLA", "SABRE", "SÄBLE" ],
+      "spriteName": "SaberDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "true",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "R"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "false",
+          "itemName": "Ä"
+        },
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "Lash",
+      "displayName": [ "BICZ", "WHIP", "KNUTE" ],
+      "spriteName": "LashDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "Z"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        }
+      ]
+    },
+    {
+      "_id": "1",
+      "name": "Grutek",
+      "displayName": [ "GRUTEK", "ARBOR", "BÄUMCHEN" ],
+      "spriteName": "Grutek",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        }
+      ],
+      "en": [
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "true",
+          "itemName": "Ä"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        }
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "Groundhog",
+      "displayName": [ "ŚWISTAK", "TRACKER", "GEMURMEL" ],
+      "spriteName": "Marmot",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "Ś"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ]
+
+    },
+    {
+      "_id": "1",
+      "name": "Firefly",
+      "displayName": [ "ŚWIETLIK", "BIFFLE", "GLÜHWÜRMCHEN" ],
+      "spriteName": "firefly-heads-1.1_1",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "Ś"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        }
+
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "F"
+        },
+        {
+          "active": "true",
+          "itemName": "F"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        }
+
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "true",
+          "itemName": "Ü"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "true",
+          "itemName": "Ü"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        }
+      ]
+
+    },
+
+    {
+      "_id": "2",
+      "name": "Arrow",
+      "displayName": [ "STRZAŁA", "ARROW", "PFEIL" ],
+      "spriteName": "ArrowsDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "Z"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "Ł"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        }
+      ],
+      "en": [
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "true",
+          "itemName": "F"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ]
+    },
+
+    {
+      "_id": "2",
+      "name": "Packa",
+      "displayName": [ "PACKA", "SWATTER", "FLIEGENKLATSCHE" ],
+      "spriteName": "SwatterDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        }
+
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "F"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "name": "Map",
+      "displayName": [ "Mapa", "Map", "Karte" ],
+      "spriteName": "MapDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        }
+
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "M"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "P"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "E"
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "name": "Bow",
+      "displayName": [ "ŁUK", "BOW", "BOGEN" ],
+      "spriteName": "BowDamaged",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "Ł"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        }
+
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "name": "Bird",
+      "displayName": [ "ĆWIREK", "TWEETY", "VOGLI" ],
+      "spriteName": "Bird",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "Ć"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        }
+
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "false",
+          "itemName": "Y"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "V"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "G"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "name": "Frog",
+      "displayName": [ "RECHOTKA", "RIBBIT", "FRÖSCHLI" ],
+      "spriteName": "Frog",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        }
+
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "true",
+          "itemName": "B"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "F"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "Ö"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "L"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "name": "Squirrel",
+      "displayName": [ "RUDOSKÓRKA", "NUTSY", "WEICHHÖRNCHEN" ],
+      "spriteName": "Squirrel",
+      "pl": [
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "D"
+        },
+        {
+          "active": "false",
+          "itemName": "O"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "true",
+          "itemName": "Ó"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "K"
+        },
+        {
+          "active": "false",
+          "itemName": "A"
+        }
+      ],
+      "en": [
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "false",
+          "itemName": "U"
+        },
+        {
+          "active": "true",
+          "itemName": "T"
+        },
+        {
+          "active": "true",
+          "itemName": "S"
+        },
+        {
+          "active": "true",
+          "itemName": "Y"
+        }
+      ],
+      "de": [
+        {
+          "active": "true",
+          "itemName": "W"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "false",
+          "itemName": "I"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "true",
+          "itemName": "Ö"
+        },
+        {
+          "active": "true",
+          "itemName": "R"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        },
+        {
+          "active": "true",
+          "itemName": "C"
+        },
+        {
+          "active": "true",
+          "itemName": "H"
+        },
+        {
+          "active": "false",
+          "itemName": "E"
+        },
+        {
+          "active": "true",
+          "itemName": "N"
+        }
+      ]
+    },
+    {
+      "_id": "1",
+      "name": "None",
+      "displayName": [ "NONE", "NONE", "NONE" ],
+      "spriteName": "",
+      "pl": [
+
+      ],
+      "en": [
+
+      ],
+      "de": [
+
+      ]
+
+    }
+  ]
+}

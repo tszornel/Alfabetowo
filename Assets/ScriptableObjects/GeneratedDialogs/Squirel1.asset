@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Squirel1
+  m_EditorClassIdentifier: 
+  Id: 65
+  dialogName: Squirel1
+  dialogSegments:
+  - lineOfText: Oo...o!
+    dialogLineDisplayTime: 0.06666999
+    characterName: "Rudosk\xF3rka"
+    characterImage: {fileID: 11400000, guid: c74a4918954dfb54f936c7a5d0fcd415, type: 2}
+    audio: {fileID: 8300000, guid: ab0789f3f5c80e745906bbd156c7984a, type: 3}
+  - lineOfText: "O...Nicpo\u0144! Dzie\u0144 dobry! Ratuj mnie! "
+    dialogLineDisplayTime: 0.05539
+    characterName: "Rudosk\xF3rka"
+    characterImage: {fileID: 11400000, guid: c74a4918954dfb54f936c7a5d0fcd415, type: 2}
+    audio: {fileID: 8300000, guid: d09e8532b98328d4c836ceee49d4eab1, type: 3}
+  - lineOfText: " Nie mog\u0119 \u017Cy\u0107 bez moich literek! Nie mam si\u0142y,
+      by si\u0119 st\u0105d ruszy\u0107."
+    dialogLineDisplayTime: 0.052509997
+    characterName: "Rudosk\xF3rka"
+    characterImage: {fileID: 11400000, guid: c74a4918954dfb54f936c7a5d0fcd415, type: 2}
+    audio: {fileID: 8300000, guid: c3cebc3c852c2594197263e6a7ec916e, type: 3}
+  - lineOfText: "Wichry niebawem mog\u0105 odebra\u0107 mi reszt\u0119 literek z
+      imienia i przestan\u0119 istnie\u0107!"
+    dialogLineDisplayTime: 0.05802
+    characterName: "Rudosk\xF3rka"
+    characterImage: {fileID: 11400000, guid: c74a4918954dfb54f936c7a5d0fcd415, type: 2}
+    audio: {fileID: 8300000, guid: 3130daee70b5408489eea2c94f9dc506, type: 3}
+  - lineOfText: "M\xF3g\u0142by\u015B mnie uratowa\u0107 Nicponiu? "
+    dialogLineDisplayTime: 0.03618
+    characterName: "Rudosk\xF3rka"
+    characterImage: {fileID: 11400000, guid: c74a4918954dfb54f936c7a5d0fcd415, type: 2}
+    audio: {fileID: 8300000, guid: 47a2a494f193f3c438c2af8260d9e895, type: 3}
+  - lineOfText: "Widzia\u0142am jak wiatry zawia\u0142y literki pod wielki owoc orzecha."
+    dialogLineDisplayTime: 0.04996
+    characterName: "Rudosk\xF3rka"
+    characterImage: {fileID: 11400000, guid: c74a4918954dfb54f936c7a5d0fcd415, type: 2}
+    audio: {fileID: 8300000, guid: 48fd3d4e8b8d5dc43b683b1ac14a59ed, type: 3}
+  - lineOfText: "Mo\u017Ce nie wywia\u0142o ich do Sarsenbaja?"
+    dialogLineDisplayTime: 0.06544
+    characterName: "Rudosk\xF3rka"
+    characterImage: {fileID: 11400000, guid: c74a4918954dfb54f936c7a5d0fcd415, type: 2}
+    audio: {fileID: 8300000, guid: 0bdfa0ea220fd2c4b9ebe2399daa030e, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

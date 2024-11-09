@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Grutek-short-2
+  m_EditorClassIdentifier: 
+  Id: 53
+  dialogName: Grutek-short-2
+  dialogSegments:
+  - lineOfText: "Je\u015Bli chcesz zadania swojej wyprawy wype\u0142ni\u0107, musisz
+      baczy\u0107 na drzewa."
+    dialogLineDisplayTime: 0.057299998
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: a7b9a5e458eb7344687857c787788b9e, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

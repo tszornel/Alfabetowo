@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed53141c5d638c043921aaf6af5ef66a, type: 3}
+  m_Name: Nicpon_HighScore
+  m_EditorClassIdentifier: 
+  highScores:
+  - m_UserID: Toms
+    m_Rank: 1
+    m_Coins_Amount: 12
+    m_Words_Amount: 1
+    m_Time_Amount: 12:13
+    m_value: 200
+  - m_UserID: Test
+    m_Rank: 1
+    m_Coins_Amount: 2
+    m_Words_Amount: 3
+    m_Time_Amount: 01:12
+    m_value: 300
+  - m_UserID: 0
+    m_Rank: -1
+    m_Coins_Amount: 0
+    m_Words_Amount: 0
+    m_Time_Amount: 00:53
+    m_value: 1000
+  - m_UserID: 0
+    m_Rank: -1
+    m_Coins_Amount: 0
+    m_Words_Amount: 0
+    m_Time_Amount: 01:45
+    m_value: 1000
+  - m_UserID: 0
+    m_Rank: -1
+    m_Coins_Amount: 0
+    m_Words_Amount: 0
+    m_Time_Amount: 00:53
+    m_value: 1000

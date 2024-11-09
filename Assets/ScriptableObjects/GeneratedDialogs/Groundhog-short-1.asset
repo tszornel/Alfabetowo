@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Groundhog-short-1
+  m_EditorClassIdentifier: 
+  Id: 90
+  dialogName: Groundhog-short-1
+  dialogSegments:
+  - lineOfText: "Nicponiu! Pom\xF3\u017C mi! Jestem tu! Utkn\u0105\u0142\u0119m mi\u0119dzy
+      kamieniami."
+    dialogLineDisplayTime: 0.09806
+    characterName: "\u015Awistak"
+    characterImage: {fileID: 11400000, guid: 7a6891621bdaa3e4daca05e758584b2f, type: 2}
+    audio: {fileID: 8300000, guid: 2de92a78d04ac804bb8682e9d3c31c6e, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

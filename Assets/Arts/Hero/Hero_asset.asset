@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Hero_asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Weapon
+    m_Hash: 1855955664
+    m_CategoryList:
+    - m_Name: Kij
+      m_Hash: -1697193061
+      m_Sprite: {fileID: 21300000, guid: e5dd6e512c117f7429ff1c60e45527a3, type: 3}
+    - m_Name: Sword
+      m_Hash: 1529145355
+      m_Sprite: {fileID: -6453453021690779433, guid: 888be341a40cb3d4db4edf37b1c02aa7, type: 3}
+    - m_Name: Lash
+      m_Hash: -18326831
+      m_Sprite: {fileID: 21300000, guid: d5d79194d0484ac48b81e864dc7b60dd, type: 3}
+  - m_Name: corpse
+    m_Hash: -1999797394
+    m_CategoryList:
+    - m_Name: corpse_with_belt
+      m_Hash: 1032837341
+      m_Sprite: {fileID: -7762890005419085127, guid: 8400bbf6f74b8e04cac16ba90c14399c, type: 3}
+    - m_Name: corpse_armoured
+      m_Hash: -861838860
+      m_Sprite: {fileID: 2746036982864301537, guid: 0eadcd5d5ba77d742b5e1473e2a5201d, type: 3}
+  - m_Name: rightHand
+    m_Hash: -150417517
+    m_CategoryList:
+    - m_Name: rightHand
+      m_Hash: -150417517
+      m_Sprite: {fileID: 5266770884549082409, guid: 8400bbf6f74b8e04cac16ba90c14399c, type: 3}
+    - m_Name: rightHand_armoured
+      m_Hash: -1317298781
+      m_Sprite: {fileID: 916478447435402119, guid: 0eadcd5d5ba77d742b5e1473e2a5201d, type: 3}
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList:
+    - m_Name: head_witheyes
+      m_Hash: 148651666
+      m_Sprite: {fileID: -8533949888590378354, guid: cea895b5a22bb0c45a8c63a68c35c468, type: 3}
+    - m_Name: head_withouteyes
+      m_Hash: -1097796103
+      m_Sprite: {fileID: 6407123611876467929, guid: 1d2d0404eb35eaa4cbe38b8915185eb2, type: 3}
+    - m_Name: head_with_hair
+      m_Hash: -972025071
+      m_Sprite: {fileID: -8924772376327926826, guid: eaa832e3038d86343a3d9cc5055fa12c, type: 3}
+  - m_Name: hats
+    m_Hash: 345783699
+    m_CategoryList:
+    - m_Name: hat
+      m_Hash: -1844728759
+      m_Sprite: {fileID: -652325984841677891, guid: 8400bbf6f74b8e04cac16ba90c14399c, type: 3}
+    - m_Name: helm
+      m_Hash: 1803628661
+      m_Sprite: {fileID: -8790234950750827142, guid: 0eadcd5d5ba77d742b5e1473e2a5201d, type: 3}
+  - m_Name: leftHand
+    m_Hash: 1325633850
+    m_CategoryList:
+    - m_Name: left_hand_standard
+      m_Hash: 1771722619
+      m_Sprite: {fileID: -7710903272969898593, guid: 8400bbf6f74b8e04cac16ba90c14399c, type: 3}
+    - m_Name: left_hand_armoured
+      m_Hash: -1926228839
+      m_Sprite: {fileID: -4512948631888499482, guid: 0eadcd5d5ba77d742b5e1473e2a5201d, type: 3}
+  - m_Name: leftLeg
+    m_Hash: -911159907
+    m_CategoryList:
+    - m_Name: left_leg_standard
+      m_Hash: 908678091
+      m_Sprite: {fileID: 5832336786515415760, guid: 8400bbf6f74b8e04cac16ba90c14399c, type: 3}
+    - m_Name: left_leg_armoured
+      m_Hash: -763162583
+      m_Sprite: {fileID: -7211182519473394937, guid: 0eadcd5d5ba77d742b5e1473e2a5201d, type: 3}
+  - m_Name: rightLeg
+    m_Hash: 2135649194
+    m_CategoryList:
+    - m_Name: right_leg_standard
+      m_Hash: -904117398
+      m_Sprite: {fileID: -4018498593282455548, guid: 8400bbf6f74b8e04cac16ba90c14399c, type: 3}
+    - m_Name: right_leg_armoured
+      m_Hash: 783679624
+      m_Sprite: {fileID: 534069362750120881, guid: 0eadcd5d5ba77d742b5e1473e2a5201d, type: 3}
+  m_ModificationHash: 0

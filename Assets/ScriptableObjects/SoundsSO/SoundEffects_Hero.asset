@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c9ee3b007f82444806bfab3d865b8d, type: 3}
+  m_Name: SoundEffects_Hero
+  m_EditorClassIdentifier: 
+  audioClipsAttackHand:
+  - {fileID: 8300000, guid: a2c316f5b85d36147b543b31e5d3fadc, type: 3}
+  - {fileID: 8300000, guid: 3a1c9bed2ad92974b85ad09b1395f53b, type: 3}
+  - {fileID: 8300000, guid: 335699f847789a241b04751cc09fb996, type: 3}
+  audioClipsAttackSword:
+  - {fileID: 8300000, guid: 4ed578d665117014c80db991319079c9, type: 3}
+  - {fileID: 8300000, guid: 50864857e8743534890607e194d5282d, type: 3}
+  audioClipsGetHit:
+  - {fileID: 8300000, guid: d021344d048c0e549a57b7a813f1dff5, type: 3}
+  - {fileID: 8300000, guid: a8158778e82a3d04684c0b663a598551, type: 3}
+  audioClipsDeath:
+  - {fileID: 8300000, guid: f5d946409a83b624eb0c6b6d5dd90965, type: 3}
+  - {fileID: 8300000, guid: ce6bc0a33fb436c4892d0dbb6f36d8e5, type: 3}
+  audioClipsWalkingOnGround:
+  - {fileID: 8300000, guid: 21cbad401e7e4ec45ab4b0818cb3d71a, type: 3}
+  - {fileID: 8300000, guid: c366cace9c3d12b478b87ebad1c58d90, type: 3}
+  - {fileID: 8300000, guid: 45feb9dece94cef4e9e847cec557e056, type: 3}
+  - {fileID: 8300000, guid: 8ebc2dd587873f4488405da29452e139, type: 3}
+  - {fileID: 8300000, guid: d3ae35a07c70bf043b6d3664ecb0faf8, type: 3}
+  - {fileID: 8300000, guid: 0d47dd0fecf4e584bad196bff6849b72, type: 3}
+  - {fileID: 8300000, guid: 8c8f17eec8eb34f41b9bb480aa28f4e3, type: 3}
+  - {fileID: 8300000, guid: 8cb00ab9e48373441868bf965c5dad7d, type: 3}
+  - {fileID: 8300000, guid: 630c3ce840abda34b93ba3babfcc9e32, type: 3}
+  - {fileID: 8300000, guid: a573b0efb3a6fb748bb3de4d5de5f87a, type: 3}
+  - {fileID: 8300000, guid: 8a0a86fcc632697499196d28b9949f20, type: 3}
+  - {fileID: 8300000, guid: 7c284d503a231354f91f4208149c3982, type: 3}
+  - {fileID: 8300000, guid: 61c2c481df333184f9a3ff017b0a1c4e, type: 3}
+  - {fileID: 8300000, guid: 8281fc48c10d07847be8a343320efd5c, type: 3}
+  - {fileID: 8300000, guid: f3618cd690c29294c877bda9e880d5ec, type: 3}
+  audioClipsWalkingOnWater:
+  - {fileID: 8300000, guid: 485caffa542fc884b99cb6f30a642ed9, type: 3}
+  - {fileID: 8300000, guid: d4824741dde8f8042b37bd46d24e0da9, type: 3}
+  - {fileID: 8300000, guid: 0c8861afa8285994296c7105a6e451ea, type: 3}
+  audioClipsPickupLetters:
+  - {fileID: 8300000, guid: bf83385cce5293e45b9a88362ee5aa3c, type: 3}
+  audioClipsPickupItems:
+  - {fileID: 8300000, guid: bf83385cce5293e45b9a88362ee5aa3c, type: 3}
+  audioClipsFightSword:
+  - {fileID: 8300000, guid: b55ab888c6ff0be4197deb7fc4daba85, type: 3}
+  - {fileID: 8300000, guid: 2b1aeb3d349b03a44a59fca6318acab3, type: 3}
+  - {fileID: 8300000, guid: 4ed578d665117014c80db991319079c9, type: 3}
+  - {fileID: 8300000, guid: 0919170d8da08954eb1bbc0316f457a8, type: 3}
+  audioClipsFightWithHands:
+  - {fileID: 8300000, guid: aa456d1305594d44e8e5484933161210, type: 3}
+  - {fileID: 8300000, guid: f6cfa9c9f5761ab43a3be99946928b69, type: 3}
+  - {fileID: 8300000, guid: 78af2b88d0aa2ed41adf123565f4984a, type: 3}
+  audioClipsFullBag:
+  - {fileID: 8300000, guid: 8bb20997d1a2a5148899580d27544da1, type: 3}
+  - {fileID: 8300000, guid: 2fa9061ab083e9a49a9dbb6af3b885ad, type: 3}
+  - {fileID: 8300000, guid: 2fa9061ab083e9a49a9dbb6af3b885ad, type: 3}
+  audioClipsComeLater:
+  - {fileID: 8300000, guid: 374e10527a8cc914f8694fdfc06f4f89, type: 3}
+  - {fileID: 8300000, guid: 5e53bb46fc52b834fbde1175e7889ae5, type: 3}
+  audioClipsNotWorking:
+  - {fileID: 8300000, guid: 3cb7b411da49c5e4e9bfc1e48a0cb79c, type: 3}
+  - {fileID: 8300000, guid: 50e020b8a68215d4dab34283c5772d31, type: 3}
+  audioClipsJump:
+  - {fileID: 8300000, guid: 155608b7347077d489303cf6078d3516, type: 3}
+  - {fileID: 8300000, guid: 22cf0296ec102e54c86dd36c9a97f0d3, type: 3}
+  spiderClip: []
+  switchFrameClip: []
+  introPageClips: []
+  drowningClips:
+  - {fileID: 8300000, guid: 868a16cbff631754b90ee7029518871c, type: 3}
+  successClips: []
+  randomSound: []
+  repaireClips:
+  - {fileID: 8300000, guid: 242e6d325570516409208700621b9753, type: 3}
+  UILighterPanel: []
+  successPanelClip: {fileID: 8300000, guid: 6ce3e2a69f88cb24499bc043c51d32f2, type: 3}
+  leanTweenSound: {fileID: 0}
+  vibratoSound: {fileID: 0}
+  soundFirst: {fileID: 0}
+  audioClipsPirateSaber:
+  - {fileID: 8300000, guid: cf2bd23f47a300c4a8b8a017dc2d87f0, type: 3}
+  audioClipsSwatter:
+  - {fileID: 8300000, guid: c6c3ab4be141f8944bd7b1f354cb4e26, type: 3}
+  - {fileID: 8300000, guid: 8ec738ba8c97349468a3800fa16f1a41, type: 3}
+  audioClipsStick: []
+  audioClipsBow: []
+  teleportSoundClip:
+  - {fileID: 8300000, guid: 9d15ba4553065444b82e03605fe335cf, type: 3}
+  noMoney:
+  - {fileID: 8300000, guid: 811dca1c52cdbf443b75d410a16c5940, type: 3}
+  clockTicking: []
+  clockBack: []
+  audioClipsLash:
+  - {fileID: 8300000, guid: 0a48f3a8d27479b45a9027282c3edd85, type: 3}

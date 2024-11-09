@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: GrutekFirstMeeting
+  m_EditorClassIdentifier: 
+  Id: 52
+  dialogName: GrutekFirstMeeting
+  dialogSegments:
+  - lineOfText: Witaj!
+    dialogLineDisplayTime: 0.017819999
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 8a8c6962af7046847b425ef5a60e4c95, type: 3}
+  - lineOfText: Argh...Witaj!
+    dialogLineDisplayTime: 0.057299998
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: a7b9a5e458eb7344687857c787788b9e, type: 3}
+  - lineOfText: "Kim jeste\u015B?"
+    dialogLineDisplayTime: 0.02195
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: d98372d86bd2d7f4184ce208aa7bb6da, type: 3}
+  - lineOfText: "Nazywam si\u0119 Grutek."
+    dialogLineDisplayTime: 0.046749998
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 74af9924db428ab4ebb553eac18db919, type: 3}
+  - lineOfText: "Zaatakowa\u0142y mnie wrogie stwory, wys\u0142annicy Sarsenbaja,
+      kr\xF3la wichr\xF3w. "
+    dialogLineDisplayTime: 0.11203
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 7ce5b99b56eccdd40ad5a17074d260b2, type: 3}
+  - lineOfText: Ukradli mi moje literki.
+    dialogLineDisplayTime: 0.05334
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: c93d496ef0e0beb4d84161c5f6c229bf, type: 3}
+  - lineOfText: "Cz\u0119\u015B\u0107 zachowa\u0142em ale \u2026kilku potrzebuj\u0119
+      \u017Cebym m\xF3g\u0142 istnie\u0107. Ju\u017C przestaj\u0119 m\xF3wi\u0107."
+    dialogLineDisplayTime: 0.11752
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 64965692959b0d6419ec277880cba3c3, type: 3}
+  - lineOfText: "Poratuj mnie prosz\u0119 cho\u0107 literk\u0105, bym m\xF3g\u0142
+      powiedzie\u0107, to co chc\u0119."
+    dialogLineDisplayTime: 0.06925
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 348713803707b6a44827792e69a4b4d2, type: 3}
+  - lineOfText: "Nie mam literki. B\u0119d\u0119 musia\u0142 j\u0105 znale\u017A\u0107."
+    dialogLineDisplayTime: 0.05169
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 736f4219719ba7d4494e8532f2b9aa22, type: 3}
+  - lineOfText: "Dobrze, poczekam. Byleby ci si\u0119 to uda\u0142o, zanim ostatnie
+      ziarnko piachu nie przesypie si\u0119 w klepsydrze."
+    dialogLineDisplayTime: 0.1402
+    characterName: Grutek
+    characterImage: {fileID: 11400000, guid: b297c35b70dfc6b45b3dc9e1169e4e97, type: 2}
+    audio: {fileID: 8300000, guid: 72dc799bf11f8e54e9a6af0517bc378f, type: 3}
+  - lineOfText: Jakiej klepsydrze?
+    dialogLineDisplayTime: 0.03304
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 5f3b196526b248649bfa01db7ee31fa8, type: 3}
+  - lineOfText: "Aaa! Chyba chodzi mu o uciekaj\u0105cy czas..."
+    dialogLineDisplayTime: 0.039619997
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 6d42e93c863ef0d4db9caa4d6c0d5410, type: 3}
+  - lineOfText: "Czyli do wieczora musz\u0119 mu znale\u017A\u0107 literk\u0119."
+    dialogLineDisplayTime: 0.033099998
+    characterName: "Nicpo\u0144"
+    characterImage: {fileID: 11400000, guid: 07865693b512a584cb4e5234b2ac853c, type: 2}
+    audio: {fileID: 8300000, guid: 3d9d11cd445a18943aafa86f87e7a187, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 1
+  shortDialogName: Grutek-short-1
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

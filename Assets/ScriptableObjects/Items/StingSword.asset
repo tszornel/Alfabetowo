@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdbec23d3aa8284a94f6f5101b6752c, type: 3}
+  m_Name: StingSword
+  m_EditorClassIdentifier: 
+  ID: 17
+  type: 2
+  displayName: "Miecz \u017B\u0105d\u0142o"
+  objectName: StingSword
+  itemSprite: {fileID: 21300000, guid: 39ac75c82a8b630429a91abadf1049d3, type: 3}
+  itemIcon: {fileID: 13014984192752015, guid: 37eae46967bf7624683d8809b2ed539d, type: 3}
+  itemSpriteDamaged: {fileID: 21300000, guid: 67ba143b0d22c7f409cb67556f4bfb8c, type: 3}
+  amount: 1
+  description: "MIECZ \u017B\u0104D\u0141O"
+  price: 1
+  itemPrefab: {fileID: 0}
+  buffs:
+  - attribute: 3
+    value: 2
+    min: 2
+    max: 2
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 11400000, guid: 478f25becf9540d4584f3fda370e04b3, type: 2}
+  WeaponType: 1

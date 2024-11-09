@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdbec23d3aa8284a94f6f5101b6752c, type: 3}
+  m_Name: Log
+  m_EditorClassIdentifier: 
+  ID: 21
+  type: 2
+  displayName: Laga
+  objectName: Log
+  itemSprite: {fileID: 21300000, guid: 56d1d8f3496038b4a857d3f9a1c3a351, type: 3}
+  itemIcon: {fileID: 0}
+  itemSpriteDamaged: {fileID: 21300000, guid: 43caa6e50c956d84ca332b2a4124db28, type: 3}
+  amount: 1
+  description: Laga
+  price: 1
+  itemPrefab: {fileID: 0}
+  buffs:
+  - attribute: 3
+    value: 1
+    min: 1
+    max: 1
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 0}
+  WeaponType: 1

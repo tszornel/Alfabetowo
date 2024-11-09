@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1b17aafedae60459ea731612115bb1, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  ID: 0
+  type: 0
+  displayName: Moneta
+  objectName: Coin
+  itemSprite: {fileID: 8003260396191338441, guid: ccf10904f92c5d44aa89ee9fa8979e7f, type: 3}
+  itemIcon: {fileID: 8592414833468127558, guid: 37eae46967bf7624683d8809b2ed539d, type: 3}
+  itemSpriteDamaged: {fileID: 0}
+  amount: 1
+  description: Moneta
+  price: 0
+  itemPrefab: {fileID: 1352101841354643802, guid: 36718378cbd678546870ecc81c8d942b, type: 3}
+  buffs: []
+  stackable: 1
+  damaged: 0
+  nameObject: {fileID: 0}

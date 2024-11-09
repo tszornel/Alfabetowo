@@ -1,0 +1,797 @@
+{
+  "data": [
+    {
+      "_id": "0",
+      "objectName": "Coin",
+      "displayName": [ "Moneta", "Coin", "Münze" ],
+      "itemType": "Coin",
+      "itemSprite": "Coin",
+      "itemSpriteDamaged": "",
+      "damaged": "false",
+      "amount": "1",
+      "description": [ "Moneta", "Coin", "Münze" ],
+      "price": "",
+      "restoreHealthAmount": "",
+      "prefabName": "P_Coin",
+      "equipmentTypeName": "",
+      "letterText": "",
+      "nameRef": "",
+      "stackable": "true",
+      "buffs": [
+      ]
+    },
+    {
+      "_id": "40",
+      "objectName": "Shield",
+      "displayName": [ "Tarcza", "Shield", "Schild" ],
+      "itemType": "Equipment",
+      "itemSprite": "Shield",
+      "itemSpriteDamaged": "ShieldDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "TARCZA", "SHIELD", "SCHILD" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "P_Weapon_Shield",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "41",
+      "objectName": "Helmet",
+      "displayName": [ "Hełm", "Helmet", "Helm" ],
+      "itemType": "Equipment",
+      "itemSprite": "Helmet",
+      "itemSpriteDamaged": "HelmetDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "HEŁM", "HELMET", "HELM" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "P_Helmet",
+      "equipmentTypeName": "Helmet",
+      "letterText": "",
+      "nameRef": "HelmetDamaged",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "42",
+      "objectName": "Health",
+      "displayName": [ "Życie", "Health", "Leben" ],
+      "itemType": "Health",
+      "itemSprite": "HearthIcon",
+      "itemSpriteDamaged": "",
+      "damaged": "false",
+      "amount": "1",
+      "description": [ "ŻYCIE", "HEALTH", "LEBEN" ],
+      "price": "1",
+      "restoreHealthAmount": "1",
+      "prefabName": "",
+      "equipmentTypeName": "Health",
+      "letterText": "",
+      "nameRef": "",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Health",
+          "minValue": "1",
+          "maxValue": "1"
+        }
+      ]
+    },
+    {
+      "_id": "43",
+      "objectName": "MagicWand",
+      "displayName": [ "Różdżka", "Magic Wand", "Zauberstab" ],
+      "itemType": "Equipment",
+      "itemSprite": "MagicWand",
+      "itemSpriteDamaged": "MagicWandDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "RÓŻDŻKA", "MAGIC WAND", "ZAUBERSTAB" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "MagicWandDamaged",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "44",
+      "objectName": "Map",
+      "displayName": [ "Mapa", "Map", "Karte" ],
+      "itemType": "Map",
+      "itemSprite": "Map",
+      "itemSpriteDamaged": "MapDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "MAPA", "MAP", "KARTE" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "",
+      "letterText": "",
+      "nameRef": "MapDamaged",
+      "stackable": "false",
+      "buffs": [
+
+      ]
+    },
+    {
+      "_id": "45",
+      "objectName": "Feather",
+      "displayName": [ "Piórko", "Feather", "Feder" ],
+      "itemType": "Equipment",
+      "itemSprite": "Feather",
+      "itemSpriteDamaged": "FeatherDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "PIÓRKO", "FEATHER", "FEDER" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Tool",
+      "letterText": "",
+      "nameRef": "FeatherDamaged",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "46",
+      "objectName": "Worms",
+      "displayName": [ "Robaki", "Worms", "Würmer" ],
+      "itemType": "Equipment",
+      "itemSprite": "Worms",
+      "itemSpriteDamaged": "WormsDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "ROBAKI", "WORMS", "WÜRMER" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Tool",
+      "letterText": "",
+      "nameRef": "WormsDamaged",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "47",
+      "objectName": "Paddle",
+      "displayName": [ "Wiosło", "Paddle", "Ruder" ],
+      "itemType": "Equipment",
+      "itemSprite": "Paddle",
+      "itemSpriteDamaged": "PaddleDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "WIOSŁO", "PADDLE", "RUDER" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Tool",
+      "letterText": "",
+      "nameRef": "Paddle",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "49",
+      "objectName": "Shovel",
+      "displayName": [ "Łopata", "Shovel", "Schaufel" ],
+      "itemType": "Equipment",
+      "itemSprite": "Shovel",
+      "itemSpriteDamaged": "ShovelDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "ŁOPATA", "Shovel", "SCHAUFEL" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Tool",
+      "letterText": "",
+      "nameRef": "Shovel",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "51",
+      "objectName": "Armour",
+      "displayName": [ "Zbroja", "Armour", "Rüstung" ],
+      "itemType": "Equipment",
+      "itemSprite": "Armour",
+      "itemSpriteDamaged": "ArmourDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "ZBROJA", "ARMOUR", "RÜSTUNG" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Armour",
+      "letterText": "",
+      "nameRef": "Armour",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "52",
+      "objectName": "Lash",
+      "displayName": [ "Bicz", "Lash", "Knute" ],
+      "itemType": "Equipment",
+      "itemSprite": "Lash",
+      "itemSpriteDamaged": "LashDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "BICZ", "LASH", "KNUTE" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "P_Lash",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Lash",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "53",
+      "objectName": "Stick",
+      "displayName": [ "Kij", "Stick", "Schläger" ],
+      "itemType": "Equipment",
+      "itemSprite": "Stick",
+      "itemSpriteDamaged": "StickDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "KIJ", "STICK", "SCHLÄGER" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Stick",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "54",
+      "objectName": "Arrows",
+      "displayName": [ "Strzały", "Arrows", "Pfeile" ],
+      "itemType": "Equipment",
+      "itemSprite": "Arrows",
+      "itemSpriteDamaged": "ArrowsDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "STRZAŁY", "ARROWS", "PFEILE" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Arrows",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "55",
+      "objectName": "Key",
+      "displayName": [ "Klucz", "Key", "Schlüssel" ],
+      "itemType": "Default",
+      "itemSprite": "Key",
+      "itemSpriteDamaged": "KeyDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "KLUCZ", "KEY", "SCHLÜSSEL" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "",
+      "letterText": "",
+      "nameRef": "Key",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "56",
+      "objectName": "SuperJumpElixir",
+      "displayName": [ "Eliksir super-skoku", "Super-jump Elixir", "Supersprungelixier" ],
+      "itemType": "Default",
+      "itemSprite": "SuperJumpElixir",
+      "itemSpriteDamaged": "SuperJumpElixirDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "ELIKSIR SUPER-SKOKU", "SUPER-JUMP ELIXIR", "SUPERSPRUNGELIXIER" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "",
+      "letterText": "",
+      "nameRef": "SuperJumpElixir",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "57",
+      "objectName": "Bow",
+      "displayName": [ "Łuk", "Bow", "Bogen" ],
+      "itemType": "Equipment",
+      "itemSprite": "Bow",
+      "itemSpriteDamaged": "BowDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "ŁUK", "BOW", "BOGEN" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Bow",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Speed",
+          "minValue": "1",
+          "maxValue": "1"
+        },
+        {
+          "AttributeName": "Agility",
+          "minValue": "1",
+          "maxValue": "1"
+        }
+      ]
+    },
+    {
+      "_id": "58",
+      "objectName": "StingSword",
+      "displayName": [ "Miecz Żądło", "Sting Sword", "Stachelschwert" ],
+      "itemType": "Equipment",
+      "itemSprite": "StingSword",
+      "itemSpriteDamaged": "StingSwordDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "MIECZ ŻĄDŁO", "STING SWORD", "STACHELSCHWERT" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Sword",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Power",
+          "minValue": "2",
+          "maxValue": "2"
+        }
+       ]
+    },
+    {
+      "_id": "59",
+      "objectName": "Saber",
+      "displayName": [ "Szabla ", "Saber", "Säbel" ],
+      "itemType": "Equipment",
+      "itemSprite": "Saber",
+      "itemSpriteDamaged": "SaberDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "SZABLA", "SABER", "SÄBEL" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Saber",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Power",
+          "minValue": "1",
+          "maxValue": "5"
+        },
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "59",
+      "objectName": "Swatter",
+      "displayName": [ "Łapka ", "Swatter", "Fliegenklatsche" ],
+      "itemType": "Equipment",
+      "itemSprite": "Swatter",
+      "itemSpriteDamaged": "SwatterDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "ŁAPKA", "SWATTER", "FLIEGENKLATSCHE" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Swatter",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Power",
+          "minValue": "1",
+          "maxValue": "1"
+        }
+      ]
+    },
+    {
+      "_id": "60",
+      "objectName": "PirateSaber",
+      "displayName": [ "Szabla Pirata", "Pirate Saber", "Piratensäbel" ],
+      "itemType": "Equipment",
+      "itemSprite": "PirateSaber",
+      "itemSpriteDamaged": "PirateSaberDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "Szabla Pirata", "Pirate Saber", "Piratensäbel" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "PirateSaber",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Power",
+          "minValue": "1",
+          "maxValue": "1"
+        }
+      ]
+    },
+    {
+      "_id": "61",
+      "objectName": "Log",
+      "displayName": [ "Laga", "Log ", "Stock" ],
+      "itemType": "Equipment",
+      "itemSprite": "Log",
+      "itemSpriteDamaged": "LogDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "Laga", "Log", "Stock" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Log",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Power",
+          "minValue": "1",
+          "maxValue": "1"
+        }
+      ]
+    },
+    {
+      "_id": "75",
+      "objectName": "Whip",
+      "displayName": [ "Bicz", "Whip", "Knute" ],
+      "itemType": "Equipment",
+      "itemSprite": "Whip",
+      "itemSpriteDamaged": "WhipDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "BICZ", "WHIT", "KNUTE" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "Whip",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "79",
+      "objectName": "TimeElixir",
+      "displayName": [ "Eliksir czasu", "Time Elixir", "Elixier der Zeit" ],
+      "itemType": "Default",
+      "itemSprite": "TimeElixir",
+      "itemSpriteDamaged": "TimeElixirDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "ELIKSIR CZASU", "TIME ELIXIR", "ELIXIER DER ZEIT" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "",
+      "letterText": "",
+      "nameRef": "TimeElixir",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Intelect",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "80",
+      "objectName": "ClockKey",
+      "displayName": [ "Klucz Zegarowy", "Clock key", "Uhrenschlüssel" ],
+      "itemType": "Equipment",
+      "itemSprite": "ClockKey",
+      "itemSpriteDamaged": "ClockKeyDamaged",
+      "damaged": "false",
+      "amount": "1",
+      "description": [ "KLUCZ ZEGAROWY", "CLOCK KEY", "UHRENSCHLÜSSEL" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Tool",
+      "letterText": "",
+      "nameRef": "ClockKey",
+      "stackable": "true",
+      "buffs": [
+        {
+          "AttributeName": "Intelect",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "80",
+      "objectName": "None",
+      "displayName": [ "None", "None", "None" ],
+      "itemType": "Default",
+      "itemSprite": "",
+      "itemSpriteDamaged": "",
+      "damaged": "false",
+      "amount": "1",
+      "description": [ "NONE", "NONE", "NONE" ],
+      "price": "0",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "",
+      "letterText": "",
+      "nameRef": "",
+      "stackable": "false",
+      "buffs": [
+
+      ]
+    },
+    {
+      "_id": "81",
+      "objectName": "SuperPowerShield",
+      "displayName": [ "Tarcza supermocy", "Sueperpower Shield", "Superschutzschild" ],
+      "itemType": "Equipment",
+      "itemSprite": "SuperpowerShield",
+      "itemSpriteDamaged": "SuperpowerShieldDamaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "TARCZA SUPERMOCY", "SUPERPOWER SHIELD", "SUPERSCHUTZSCHILD" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "P_Weapon_Shield",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "SuperpowerShield",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "82",
+      "objectName": "Intelect",
+      "displayName": [ "Intelect", "Intelekt", "Intelekt" ],
+      "itemType": "Equipment",
+      "itemSprite": "Intelect",
+      "itemSpriteDamaged": "",
+      "damaged": "false",
+      "amount": "1",
+      "description": [ "INTELEKT", "INTELECT", "INTELEKT" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "P_Weapon_Shield",
+      "equipmentTypeName": "Weapon",
+      "letterText": "",
+      "nameRef": "",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "83",
+      "objectName": "UIArrow",
+      "displayName": [ "UIArrow", "UIArrow", "UIArrow" ],
+      "itemType": "Default",
+      "itemSprite": "UIArrow",
+      "itemSpriteDamaged": "",
+      "damaged": "false",
+      "amount": "1",
+      "description": [ "UIarrow", "UIArrow", "UIArrow" ],
+      "price": "",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "",
+      "letterText": "",
+      "nameRef": "",
+      "stackable": "false",
+      "buffs": [
+      ]
+    },
+    {
+      "_id": "84",
+      "objectName": "BlueKey",
+      "displayName": [ "Niebieski klucz", "Blue Key", "Blauer Schlüssel" ],
+      "itemType": "Equipment",
+      "itemSprite": "blue-key",
+      "itemSpriteDamaged": "blue-key-damaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "NIEBIESKI KLUCZ", "BLUE KEY", "BLAUER SCHLÜSSEL" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Tool",
+      "letterText": "",
+      "nameRef": "BlueKey",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "85",
+      "objectName": "BrownKey",
+      "displayName": [ "Brązowy klucz", "Brown key", "Brauner Schlüssel" ],
+      "itemType": "Equipment",
+      "itemSprite": "brown-key",
+      "itemSpriteDamaged": "brown-key-damaged",
+      "damaged": "true",
+      "amount": "1",
+      "description": [ "BRĄZOWY KLUCZ", "BROWN-KEY", "BRAUNER SCHLÜSSEL" ],
+      "price": "1",
+      "restoreHealthAmount": "",
+      "prefabName": "",
+      "equipmentTypeName": "Tool",
+      "letterText": "",
+      "nameRef": "BrownKey",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Protection",
+          "minValue": "1",
+          "maxValue": "5"
+        }
+      ]
+    },
+    {
+      "_id": "86",
+      "objectName": "Haselnut",
+      "displayName": [ "Orzech", "Haselnut", "Haselnuss" ],
+      "itemType": "Health",
+      "itemSprite": "Haselnut",
+      "itemSpriteDamaged": "",
+      "damaged": "false",
+      "amount": "1",
+      "description": [ "ORZECH", "HASELNUT", "HASELNUSS" ],
+      "price": "1",
+      "restoreHealthAmount": "3",
+      "prefabName": "",
+      "equipmentTypeName": "Tool",
+      "letterText": "",
+      "nameRef": "",
+      "stackable": "false",
+      "buffs": [
+        {
+          "AttributeName": "Health",
+          "minValue": "3",
+          "maxValue": "3"
+        }
+      ]
+    }
+
+  ]
+}

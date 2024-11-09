@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Ocean
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 8d7aaef6b9eba634c8d7125ff6353cd9, type: 3}
+  - {fileID: 21300000, guid: 5d5bf77ea3f085d4c9be047a9e938331, type: 3}
+  - {fileID: 21300000, guid: 74b5e9db8403c9f459e669f964942276, type: 3}
+  - {fileID: 21300000, guid: 0b8f5af00f2afd948a7186a4cd5e6b50, type: 3}
+  - {fileID: 21300000, guid: 593e4d52fccbc5c4095f60b6a724456f, type: 3}
+  - {fileID: 21300000, guid: 9c0a5cc20851351478b58e1e6a40fa0a, type: 3}
+  - {fileID: 21300000, guid: c0c37290086447d4fa82c16a013bdea9, type: 3}
+  - {fileID: 21300000, guid: 4f7dcbc6fd694884dbba57c3e3bb4f30, type: 3}
+  - {fileID: 21300000, guid: 7f06472be778b4f49a00a1819bda1264, type: 3}
+  - {fileID: 21300000, guid: 432c4d2df3432b744a6fd50d8bea2413, type: 3}
+  - {fileID: 21300000, guid: fa62c918296c7494dbbf2f54057cdad9, type: 3}
+  - {fileID: 21300000, guid: 283ba6abb05c70845848564145aa42db, type: 3}
+  - {fileID: 21300000, guid: 0cf680616a47c4645b63e2c87ffa4187, type: 3}
+  - {fileID: 21300000, guid: 1dcbccd68d10a6549803c5c78cd82183, type: 3}
+  - {fileID: 21300000, guid: cbde413ec5c0c4a419b60cfa2b7d0436, type: 3}
+  - {fileID: 21300000, guid: 170107ab9642fbb48aab1055347942ac, type: 3}
+  - {fileID: 21300000, guid: 1de0fa323efbfe747bed92745eeb0a93, type: 3}
+  - {fileID: 21300000, guid: 7cd1245728028d54ab984e698c7e642e, type: 3}
+  - {fileID: 21300000, guid: c7633026782711f4ab23214686466f8d, type: 3}
+  - {fileID: 21300000, guid: dc11a7a578b55f8448fe1b8386e1310d, type: 3}
+  - {fileID: 21300000, guid: 3b012bbdc59513c45a637b59d4eee0fc, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

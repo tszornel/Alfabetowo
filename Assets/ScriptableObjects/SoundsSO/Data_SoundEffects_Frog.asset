@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c9ee3b007f82444806bfab3d865b8d, type: 3}
+  m_Name: Data_SoundEffects_Frog
+  m_EditorClassIdentifier: 
+  audioClipsAttackHand: []
+  audioClipsAttackSword: []
+  audioClipsGetHit: []
+  audioClipsDeath: []
+  audioClipsWalkingOnGround: []
+  audioClipsWalkingOnWater: []
+  audioClipsPickupLetters: []
+  audioClipsPickupItems: []
+  audioClipsFightSword: []
+  audioClipsFightWithHands: []
+  audioClipsFullBag: []
+  audioClipsComeLater: []
+  audioClipsNotWorking: []
+  audioClipsJump: []
+  spiderClip: []
+  switchFrameClip: []
+  introPageClips: []
+  drowningClips: []
+  successClips:
+  - {fileID: 8300000, guid: 242e6d325570516409208700621b9753, type: 3}
+  randomSound:
+  - {fileID: 8300000, guid: dca38044b9228c446a7c835e478cad29, type: 3}
+  - {fileID: 8300000, guid: 451199ac9b5ac5f47a384cdef13c1b0f, type: 3}
+  - {fileID: 8300000, guid: 1bb6a122bceadf247a24bd316dc02ced, type: 3}
+  repaireClips: []
+  UILighterPanel: []
+  successPanelClip: {fileID: 0}
+  leanTweenSound: {fileID: 0}
+  vibratoSound: {fileID: 0}
+  soundFirst: {fileID: 0}
+  audioClipsPirateSaber: []
+  audioClipsSwatter: []
+  audioClipsStick: []
+  audioClipsBow: []
+  teleportSoundClip: []

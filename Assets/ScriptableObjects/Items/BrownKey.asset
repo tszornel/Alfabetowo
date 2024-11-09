@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdbec23d3aa8284a94f6f5101b6752c, type: 3}
+  m_Name: BrownKey
+  m_EditorClassIdentifier: 
+  ID: 30
+  type: 2
+  displayName: "Br\u0105zowy klucz"
+  objectName: BrownKey
+  itemSprite: {fileID: 21300000, guid: 00c45318fd3ff564d939984e9a84a307, type: 3}
+  itemIcon: {fileID: 21300000, guid: 3bf617b172733b34aad2db5ce6a30673, type: 3}
+  itemSpriteDamaged: {fileID: 21300000, guid: 625209b626e77694bb8dca748067087c, type: 3}
+  amount: 1
+  description: "BR\u0104ZOWY KLUCZ"
+  price: 1
+  itemPrefab: {fileID: 0}
+  buffs:
+  - attribute: 0
+    value: 1
+    min: 1
+    max: 5
+  stackable: 0
+  damaged: 0
+  nameObject: {fileID: 11400000, guid: 6ddeb742e300948418061ef9704fc75c, type: 2}
+  WeaponType: 4

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Bird-short-1
+  m_EditorClassIdentifier: 
+  Id: 92
+  dialogName: Bird-short-1
+  dialogSegments:
+  - lineOfText: "Pom\xF3\u017C mi! Nie mog\u0119 lata\u0107!"
+    dialogLineDisplayTime: 0.03595
+    characterName: "\u0106wirek"
+    characterImage: {fileID: 11400000, guid: f2ba12a2b3ad2ac438626c4385dde6ba, type: 2}
+    audio: {fileID: 8300000, guid: ab91ab302583c8646ba8cef1950ccd82, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

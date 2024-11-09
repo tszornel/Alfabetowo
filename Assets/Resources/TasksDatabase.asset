@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af57d2bf8d5c2eb4588b557b9acff8e0, type: 3}
+  m_Name: TasksDatabase
+  m_EditorClassIdentifier: 
+  taskArray:
+  - {fileID: 11400000, guid: e1cddc96d75324a4d91cea24a4c9c9ae, type: 2}
+  - {fileID: 11400000, guid: 689d83d8c7e43e74e8e9c6935da649f6, type: 2}
+  - {fileID: 11400000, guid: 7d1e9614debb68241b8bde8a62eed650, type: 2}
+  - {fileID: 11400000, guid: f7316067778dc924ba94de6ee5199ae4, type: 2}
+  - {fileID: 11400000, guid: 4f2eccc2adc83ff4ea64e35dddbfb26b, type: 2}
+  - {fileID: 11400000, guid: 2d0c027335a8db64a9f2bd3c7fc1205a, type: 2}
+  - {fileID: 11400000, guid: e945b8c85ffbb6b43928fc4de970e24f, type: 2}
+  - {fileID: 11400000, guid: 2e6c7464c59a3404a9a69a94f6f28d29, type: 2}
+  - {fileID: 11400000, guid: 8532d4245e054ed40ad111b9c062a743, type: 2}
+  - {fileID: 11400000, guid: 2a342e55de0d4b749aa2eadeca4f9ee7, type: 2}
+  - {fileID: 11400000, guid: b4d229fec1cf0f94ea0dec0266d4dd9e, type: 2}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4993161315186242688
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4993161315186242691}
+  - component: {fileID: 4993161315186242690}
+  m_Layer: 0
+  m_Name: PickupItemAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4993161315186242691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4993161315186242688}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4993161315186242690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4993161315186242688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be828a7ab7538e1489f38feba0bb0eae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pfPickupItem: {fileID: 5775375507670453617, guid: 0ec8dd83bb0e51944bd6e2529df1037e, type: 3}
+  itemsDatabase: {fileID: 11400000, guid: 2033a6274c9be044aa57daa9e7ebf151, type: 2}
+  lettersDatabase: {fileID: 11400000, guid: d474f8b1146061a4590d9c76d178f2a7, type: 2}
+  allItemsDatabase: {fileID: 11400000, guid: 338493a3afab89b4597e60fbcef2142d, type: 2}
+  namesDatabase: {fileID: 11400000, guid: c57f51b355b8f5e41b6e39239e601c1b, type: 2}
+  dialogDatabase: {fileID: 11400000, guid: 39a49feafe806324eb824ee411e9cbce, type: 2}
+  inventoryDatabase: {fileID: 11400000, guid: 39eba9b989b0ae74cb23bb55ca70d6e2, type: 2}
+  tasksDatabase: {fileID: 11400000, guid: 513d50932b0d38242bea146cc3115a86, type: 2}
+  itemsToDamageDatabase: {fileID: 11400000, guid: 9c0bd189e541ca941bf8b425ca15b50f, type: 2}
+  itemsToBeDroppedDatabase: {fileID: 11400000, guid: a2b883ee31bd3c84483f45e351d720ad, type: 2}
+  language: 0
+  _spawner: {fileID: 1067639378518655517, guid: 8bc0c6b5261f864489a56b151c681627, type: 3}

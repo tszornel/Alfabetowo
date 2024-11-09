@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d5820fe79da524db53fb8bd0b797eb, type: 3}
+  m_Name: Bird3
+  m_EditorClassIdentifier: 
+  Id: 61
+  dialogName: Bird3
+  dialogSegments:
+  - lineOfText: "Dzi\u0119kuj\u0119 Ci. Wybacz, ale mam jeszcze jedn\u0105 pro\u015Bb\u0119."
+    dialogLineDisplayTime: 0.06072
+    characterName: "\u0106wirek"
+    characterImage: {fileID: 11400000, guid: f2ba12a2b3ad2ac438626c4385dde6ba, type: 2}
+    audio: {fileID: 8300000, guid: c925f3f6e6585474db1f67c7e823534d, type: 3}
+  - lineOfText: "Musz\u0119 zosta\u0107 z piskl\u0119tami. Pom\xF3\u017C mi znale\u017A\u0107
+      dla nich po\u017Cywienie..."
+    dialogLineDisplayTime: 0.0513
+    characterName: "\u0106wirek"
+    characterImage: {fileID: 11400000, guid: f2ba12a2b3ad2ac438626c4385dde6ba, type: 2}
+    audio: {fileID: 8300000, guid: 077ae8c2f1422034d9f71c021716ae2b, type: 3}
+  - lineOfText: "...a podaruj\u0119 Ci inne literki, kt\xF3re powinny trafi\u0107
+      na swoje miejsca w Abecad\u0142owie."
+    dialogLineDisplayTime: 0.08052
+    characterName: "\u0106wirek"
+    characterImage: {fileID: 11400000, guid: f2ba12a2b3ad2ac438626c4385dde6ba, type: 2}
+    audio: {fileID: 8300000, guid: 842df0e4ebfba3340959782102b78bfd, type: 3}
+  - lineOfText: " Uda\u0142o mi si\u0119 je z\u0142apa\u0107, gdy wia\u0142y wiatry
+      Sarsenbaja."
+    dialogLineDisplayTime: 0.05794
+    characterName: "\u0106wirek"
+    characterImage: {fileID: 11400000, guid: f2ba12a2b3ad2ac438626c4385dde6ba, type: 2}
+    audio: {fileID: 8300000, guid: 0753436ed6fb7614397ceabf872a1c41, type: 3}
+  language: 0
+  dialogPlayed: 0
+  hasShort: 0
+  shortDialogName: 
+  savePath: Assets/ScriptableObjects/GeneratedDialogs

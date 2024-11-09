@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6259bfa776ed59f4da05f49fff0b4443, type: 3}
+  m_Name: Kwiat1
+  m_EditorClassIdentifier: 
+  initialHealth: 3
+  initialStrenght: 1
+  health: 3
+  strenght: 1
+  damaged: 0
+  itemsToBeDropped: {fileID: 11400000, guid: f5ba52f145db68346a7feb1dd2bba2dc, type: 2}
+  ItemsToBeDroppedName: VioletFlower-Frame1-ItemToDestroy

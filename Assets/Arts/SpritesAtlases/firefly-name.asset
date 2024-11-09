@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: firefly-name
+  m_EditorClassIdentifier: 
+  hashCode: -295628770
+  material: {fileID: 2590641492413110109}
+  materialHashCode: 0
+  m_Version: 1.1.0
+  m_FaceInfo:
+    m_FaceIndex: 0
+    m_FamilyName: 
+    m_StyleName: 
+    m_PointSize: 0
+    m_Scale: 0
+    m_LineHeight: 0
+    m_AscentLine: 0
+    m_CapLine: 0
+    m_MeanLine: 0
+    m_Baseline: 0
+    m_DescentLine: 0
+    m_SuperscriptOffset: 0
+    m_SuperscriptSize: 0
+    m_SubscriptOffset: 0
+    m_SubscriptSize: 0
+    m_UnderlineOffset: 0
+    m_UnderlineThickness: 0
+    m_StrikethroughOffset: 0
+    m_StrikethroughThickness: 0
+    m_TabWidth: 0
+  spriteSheet: {fileID: 2800000, guid: 19a62fd6a62d09a41b3374f7d6f51412, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 0
+    m_Scale: 1
+    m_Name: firefly-heads-1.1_1
+    m_HashCode: 182813584
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 1
+    m_Scale: 1
+    m_Name: firefly-heads-1.1_4
+    m_HashCode: 182813589
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 2
+    m_Scale: 1
+    m_Name: firefly-heads-1.1_8
+    m_HashCode: 182813593
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 3
+    m_Scale: 1
+    m_Name: firefly-heads-1.1_7
+    m_HashCode: 182813590
+  m_SpriteGlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 192.27312
+      m_Height: 145.71428
+      m_HorizontalBearingX: -96.13656
+      m_HorizontalBearingY: 72.85714
+      m_HorizontalAdvance: 192.27312
+    m_GlyphRect:
+      m_X: 30
+      m_Y: 198
+      m_Width: 192
+      m_Height: 145
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -3016348102918422059, guid: 19a62fd6a62d09a41b3374f7d6f51412, type: 3}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 185.71835
+      m_Height: 139.88571
+      m_HorizontalBearingX: -92.85918
+      m_HorizontalBearingY: 69.942856
+      m_HorizontalAdvance: 185.71835
+    m_GlyphRect:
+      m_X: 295
+      m_Y: 194
+      m_Width: 185
+      m_Height: 139
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 4090804337914998666, guid: 19a62fd6a62d09a41b3374f7d6f51412, type: 3}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 183.53343
+      m_Height: 139.88571
+      m_HorizontalBearingX: -91.766716
+      m_HorizontalBearingY: 69.942856
+      m_HorizontalAdvance: 183.53343
+    m_GlyphRect:
+      m_X: 278
+      m_Y: 40
+      m_Width: 183
+      m_Height: 139
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 1800877104009535412, guid: 19a62fd6a62d09a41b3374f7d6f51412, type: 3}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 182.80511
+      m_Height: 134.7857
+      m_HorizontalBearingX: -91.40256
+      m_HorizontalBearingY: 67.39285
+      m_HorizontalAdvance: 182.80511
+    m_GlyphRect:
+      m_X: 30
+      m_Y: 33
+      m_Width: 182
+      m_Height: 134
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: -28727454779382990, guid: 19a62fd6a62d09a41b3374f7d6f51412, type: 3}
+  spriteInfoList: []
+  fallbackSpriteAssets: []
+--- !u!21 &2590641492413110109
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 19a62fd6a62d09a41b3374f7d6f51412, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
